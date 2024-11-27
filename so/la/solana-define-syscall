@@ -3,3 +3,4 @@
 {"name":"solana-define-syscall","vers":"2.1.0","deps":[],"cksum":"7062ae1de58e294d3bee5fd2c89efc155b7f7383ddce4cb88345dfafaaabc5bd","features":{},"yanked":false}
 {"name":"solana-define-syscall","vers":"2.1.1","deps":[],"cksum":"49d4c912636ef11caeca0c097d020060f0021bf2d45707c0d15811cc0ca1db78","features":{},"yanked":false}
 {"name":"solana-define-syscall","vers":"2.1.2","deps":[],"cksum":"debfb6b4d3b263112fd001e6102cba148674807ef9c6cd7a80c3883137881032","features":{},"yanked":false}
+{"name":"solana-define-syscall","vers":"2.1.4","deps":[],"cksum":"8973c0e4811e915f5ee84b68cea4af8231e8157f47b6f6a7aebbac2777227eb5","features":{},"yanked":false}
