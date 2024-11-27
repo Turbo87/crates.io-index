@@ -3,3 +3,4 @@
 {"name":"solana-native-token","vers":"2.1.0","deps":[],"cksum":"5d0c4074f5fc67574dabd8f30fe6e51e290a812d88326b19b49c462058e23340","features":{},"yanked":false}
 {"name":"solana-native-token","vers":"2.1.1","deps":[],"cksum":"56baf987d7700eb58dd7b522af5281cc40fdfc790290a17c16ec0b037f31084b","features":{},"yanked":false}
 {"name":"solana-native-token","vers":"2.1.2","deps":[],"cksum":"02dc51c820c41b965a94a00e0939fa2683652c3da6ab8eaaeee194c9a526fae9","features":{},"yanked":false}
+{"name":"solana-native-token","vers":"2.1.4","deps":[],"cksum":"ed34b47a38511a53ea6aea47ebbcd0168971b095143b867d14f67a51392a2df5","features":{},"yanked":false}
