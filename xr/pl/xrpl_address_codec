@@ -10,3 +10,4 @@
 {"name":"xrpl_address_codec","vers":"0.16.3","deps":[],"cksum":"b1e00399a3dae92d71d40be6f270d5dd1606c6d825dd917a3319e4f041a7dd3d","features":{},"yanked":false}
 {"name":"xrpl_address_codec","vers":"0.16.4","deps":[],"cksum":"ff74ddaa79cb69b2b27e6f0502e978a0b4bc4682632404b81cf955af224217cb","features":{},"yanked":false}
 {"name":"xrpl_address_codec","vers":"0.16.5","deps":[],"cksum":"95966541c0e6b2adf705eaf30ac5074cea0ccbc7c911ecc0e938a2569d9860ba","features":{},"yanked":false}
+{"name":"xrpl_address_codec","vers":"0.16.7","deps":[],"cksum":"4351a7940c09faf6a98c873694a8821dc7adfc34d51ddda82d5e6cc952ecd8dd","features":{},"yanked":false}
