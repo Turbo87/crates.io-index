@@ -28,3 +28,4 @@
 {"name":"nairud","vers":"0.5.14","deps":[],"cksum":"6760631255ca35915ece96d33bb1c5e6367f97ff16108a9e81a2030d38a6220d","features":{"std":[]},"yanked":false}
 {"name":"nairud","vers":"0.5.15","deps":[],"cksum":"d9eec3ec829e12a3091bd0354b43340e557cc22506e04d9a0dd5608bd25bfa2e","features":{"std":[]},"yanked":false}
 {"name":"nairud","vers":"0.6.0","deps":[{"name":"zeros","req":">=16, <17","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8100b56b0b7bccce6df042e42a39f4b31dcffea509ad7b249ae40209a9e8b612","features":{"std":[]},"yanked":false}
+{"name":"nairud","vers":"0.6.1","deps":[{"name":"zeros","req":">=16, <17","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ea07c1d71a62b84f4fe4d064c2e21c9f38103bd4d1029bd3da6f1197122d5797","features":{"std":[]},"yanked":false}
