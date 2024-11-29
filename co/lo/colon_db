@@ -1,1 +1,2 @@
 {"name":"colon_db","vers":"0.1.0","deps":[{"name":"indexmap","req":"^1.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdb92a7bef4e6488e53eec52693728bcfa4ceea529734594ba283d5729449eec","features":{},"yanked":false}
+{"name":"colon_db","vers":"0.1.1","deps":[{"name":"indexmap","req":"^1.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d517d0e0ae046006778fb779d980dabd1b297ecc34e3455c640afa80dde9dfb8","features":{},"yanked":false}
