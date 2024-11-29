@@ -3,3 +3,4 @@
 {"name":"diff-man","vers":"0.1.2","deps":[],"cksum":"bcf12fe164df38fc5a0c242ec34f7e514bce1da7a9126563704e3ffc98c2c6b1","features":{},"yanked":false}
 {"name":"diff-man","vers":"0.1.3","deps":[],"cksum":"9df688da3b5b491298eec096cafdd45efc8399d7437b6bfe2371a270e56a1c44","features":{},"yanked":false}
 {"name":"diff-man","vers":"0.1.4","deps":[],"cksum":"8860a08314dc04ea2f57763bf43c6077ef29ca72eaacc7b7ffa3142f5e63b72b","features":{},"yanked":false}
+{"name":"diff-man","vers":"0.1.5","deps":[{"name":"clap","req":"^4.5.16","features":["cargo","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"463006a548f8a7fb143f3549601866f28ee90e08dedf340f9fc8783bb5be783f","features":{},"yanked":false}
