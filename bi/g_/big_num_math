@@ -10,3 +10,4 @@
 {"name":"big_num_math","vers":"2.1.3","deps":[],"cksum":"24961b850cf28135abde3f070b32594c2288a7a1cea1ba611b81ef09cb24f077","features":{"ext-tests":[]},"yanked":false}
 {"name":"big_num_math","vers":"2.2.0","deps":[],"cksum":"71d24c43f898ceb61a1c68afedbb97dabf2e19495044d81c009b6f6ae897d408","features":{"ext-tests":[]},"yanked":false}
 {"name":"big_num_math","vers":"2.2.1","deps":[],"cksum":"55f9e128028e9077f3fe5de762894da18339264dc239c5e3bb66de8af1a1c102","features":{"ext-tests":[]},"yanked":false}
+{"name":"big_num_math","vers":"2.2.2","deps":[],"cksum":"6855edd0172de2dae4f8f1cea314384c34456243ba0de30737477d1eba671792","features":{"ext-tests":[]},"yanked":false}
