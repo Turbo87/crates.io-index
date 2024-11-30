@@ -1,3 +1,4 @@
 {"name":"color-output","vers":"3.0.0","deps":[],"cksum":"c320a58898360b2b6d9a33dc794544160d080c899318705867e81beff4b6f43f","features":{},"yanked":false}
 {"name":"color-output","vers":"3.0.1","deps":[],"cksum":"5b7f6ae9fd63a0a69ef87b9d08f1c4ad63c0310c47a12e577be8cf4f76d1a23c","features":{},"yanked":false}
 {"name":"color-output","vers":"4.0.0","deps":[],"cksum":"3cb28a94482f6a26c7b4b12e8e3fe741ae8a7671318c028d72ba1cb6e6fdaf18","features":{},"yanked":false}
+{"name":"color-output","vers":"4.1.0","deps":[],"cksum":"e4e9d1e47024f751bf15e182e4069dd4b18d35d4afb06adbd75da32b8d8e014f","features":{},"yanked":false}
