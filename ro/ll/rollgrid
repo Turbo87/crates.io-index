@@ -1,3 +1,4 @@
 {"name":"rollgrid","vers":"0.2.0","deps":[],"cksum":"fe96dfb1dd4a564b5cbf919d523da7edf006bb4cb06ba9dab8f2e00e099f3d0e","features":{},"yanked":false}
 {"name":"rollgrid","vers":"0.2.1","deps":[],"cksum":"dc0126e128af843990701f64d64b22f6d94df20e3dca9cdfa276accd8987f087","features":{},"yanked":false}
 {"name":"rollgrid","vers":"0.2.2","deps":[],"cksum":"5c21713b6ac9a30ef2f2ba8e1f413fc99b95e4314fe0ce5cba793061f174e576","features":{},"yanked":false}
+{"name":"rollgrid","vers":"0.3.0","deps":[{"name":"serde","req":"^1.0.215","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c40fc472c6c46755fb13a8957cd908e41367bce14f785565b272d2ae85323fe5","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
