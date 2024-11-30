@@ -2,3 +2,4 @@
 {"name":"lla_plugin_interface","vers":"0.1.1","deps":[],"cksum":"f92b34484fd68526cbe85d2c36eac0ad63d556b3a0b2f72631ef78698921deaf","features":{},"yanked":false}
 {"name":"lla_plugin_interface","vers":"0.2.8","deps":[],"cksum":"dc114fd87094be002bf758120c7b3fa8ce4ff3d5c5d636a798482a36d1063f46","features":{},"yanked":false}
 {"name":"lla_plugin_interface","vers":"0.2.9","deps":[],"cksum":"3b309dae5363b57017484ae999dda67177d482cb6f74c716449e0aef2aeafbf5","features":{},"yanked":false}
+{"name":"lla_plugin_interface","vers":"0.2.10","deps":[],"cksum":"43c73200b9c4b3f007458e7b9be07b89087aaa051da3b5bc316bc7432f13beb8","features":{},"yanked":false}
