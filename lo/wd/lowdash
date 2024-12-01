@@ -1,3 +1,4 @@
 {"name":"lowdash","vers":"0.1.0","deps":[],"cksum":"42a87f9317902b00fe1895f0e2cd9665bb1f459da03fe2b4deea418b370e5579","features":{},"yanked":false}
 {"name":"lowdash","vers":"0.2.0","deps":[],"cksum":"4b541a5011f08ecd6fbcb57ad568983ef744931a25708a0e107dd5fe592926a4","features":{},"yanked":false}
 {"name":"lowdash","vers":"0.2.1","deps":[],"cksum":"c120b92b7b75c1cf4cfe017642f936a0ec2fcf7828b3384a48384b0864207c53","features":{},"yanked":true}
+{"name":"lowdash","vers":"0.2.2","deps":[],"cksum":"ac095fc274aedc66f58c5f71980d430fbd8f8dd0d3993904f45f9ae526320a7f","features":{},"yanked":false}
