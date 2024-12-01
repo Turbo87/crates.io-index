@@ -3,3 +3,4 @@
 {"name":"isovariant","vers":"0.3.0","deps":[],"cksum":"50e707d88be011553d598b505990ccd983b9f67f7b8f6a80402f5c711a492987","features":{},"yanked":false}
 {"name":"isovariant","vers":"0.4.1","deps":[],"cksum":"b9ef80730a8cf02d91bf98bf4bb24f22cc4368db13179dafdd50052fc75b5474","features":{},"yanked":false}
 {"name":"isovariant","vers":"0.4.2","deps":[],"cksum":"c5638692a26edccf1e73a6fc35fedc133734b6f739a10469fd8842fb8d7b7c87","features":{},"yanked":false}
+{"name":"isovariant","vers":"0.4.3","deps":[],"cksum":"fb28ea6a6582557f83342df2d94541de68d05d84a5644a969eb4a6eb086bfbe1","features":{},"yanked":false}
