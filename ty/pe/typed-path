@@ -16,3 +16,4 @@
 {"name":"typed-path","vers":"0.9.1","deps":[],"cksum":"04645b6c01cfb2ddabffc7c67ae6bfe7c3e28a5c37d729f6bb498e784f1fd70c","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"typed-path","vers":"0.9.2","deps":[],"cksum":"50c0c7479c430935701ff2532e3091e6680ec03f2f89ffcd9988b08e885b90a5","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.58.1"}
 {"name":"typed-path","vers":"0.9.3","deps":[],"cksum":"82205ffd44a9697e34fc145491aa47310f9871540bb7909eaa9365e0a9a46607","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.58.1"}
+{"name":"typed-path","vers":"0.10.0","deps":[],"cksum":"41713888c5ccfd99979fcd1afd47b71652e331b3d4a0e19d30769e80fec76cce","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.58.1"}
