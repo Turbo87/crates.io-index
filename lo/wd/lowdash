@@ -2,3 +2,4 @@
 {"name":"lowdash","vers":"0.2.0","deps":[],"cksum":"4b541a5011f08ecd6fbcb57ad568983ef744931a25708a0e107dd5fe592926a4","features":{},"yanked":false}
 {"name":"lowdash","vers":"0.2.1","deps":[],"cksum":"c120b92b7b75c1cf4cfe017642f936a0ec2fcf7828b3384a48384b0864207c53","features":{},"yanked":true}
 {"name":"lowdash","vers":"0.2.2","deps":[],"cksum":"ac095fc274aedc66f58c5f71980d430fbd8f8dd0d3993904f45f9ae526320a7f","features":{},"yanked":true}
+{"name":"lowdash","vers":"0.2.3","deps":[],"cksum":"f1541b41733d035eb75aeb9a3a3f96d8644bb6787e30a5eec1a9418abb73e39b","features":{},"yanked":false}
