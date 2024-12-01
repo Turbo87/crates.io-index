@@ -27,3 +27,4 @@
 {"name":"svgplot","vers":"2022.0.71","deps":[],"cksum":"7fa3fda3166be05af1ffc3cabff4122ac56efd1faf5373ccd8b560317d6a2484","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"svgplot","vers":"2024.1.0","deps":[],"cksum":"15fb8f3b2f8c9e4a973c8e1d15f97c4fe71eaf424ca5eda3383b019e30b6d2cd","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"svgplot","vers":"2024.2.0","deps":[],"cksum":"627f531dfa40b6251d05275841dbf190353d3290d84c75974166619c7ee6b471","features":{},"yanked":false,"rust_version":"1.83.0"}
+{"name":"svgplot","vers":"2024.2.1","deps":[],"cksum":"98431029eb044cc5fade0f1e8a1c1a33ab6072e243ad5db3271e964a65848fca","features":{},"yanked":false,"rust_version":"1.83.0"}
