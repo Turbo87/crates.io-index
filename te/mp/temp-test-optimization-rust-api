@@ -1,2 +1,3 @@
 {"name":"temp-test-optimization-rust-api","vers":"0.0.1","deps":[],"cksum":"fad4a9cd4b72f6eebc479ac1fba37cb6caeecea7ea03ec2ca7dee866704362ea","features":{},"yanked":false}
 {"name":"temp-test-optimization-rust-api","vers":"0.0.2","deps":[],"cksum":"befabdff3e61dceeca1d7e174c69ead59f8157b601445e2ce62fbb64fb0d471c","features":{},"yanked":false}
+{"name":"temp-test-optimization-rust-api","vers":"0.0.3","deps":[{"name":"reqwest","req":"^0.12.9","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"sevenz-rust","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b7d5ec4379a593423122ce1c6e56839cccf1cca9787d411c00e9925f4e4d2a33","features":{},"yanked":false}
