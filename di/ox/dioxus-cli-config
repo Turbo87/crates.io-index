@@ -9,3 +9,4 @@
 {"name":"dioxus-cli-config","vers":"0.6.0-alpha.3","deps":[],"cksum":"e8c43de802d959fef78aced99eb8e7f65f5ac29d19bad28ce096e2e4a42279b0","features":{},"yanked":false}
 {"name":"dioxus-cli-config","vers":"0.6.0-alpha.4","deps":[],"cksum":"5b56b3e9e48017e7e3a32752ff5211fdad7081d0ce19576f1dc2ef5e42effbe1","features":{},"yanked":false}
 {"name":"dioxus-cli-config","vers":"0.6.0-alpha.5","deps":[],"cksum":"76ada3c1010b9cf23c2950637fca77d8dfd42aac5276d1a4bbba096799f55270","features":{},"yanked":false}
+{"name":"dioxus-cli-config","vers":"0.6.0-rc.0","deps":[{"name":"wasm-bindgen","req":"^0.2.95","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26cad0796b62dd4edd92264b2a101369679aff1e286636fe194ede59438f7a9e","features":{},"features2":{"web":["dep:wasm-bindgen"]},"yanked":false,"v":2}
