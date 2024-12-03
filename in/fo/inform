@@ -1,3 +1,4 @@
 {"name":"inform","vers":"0.1.0","deps":[],"cksum":"bd88519deb5e1cf562ef7b4646ac39268f7952170988d7333aa938285e748423","features":{},"yanked":false}
 {"name":"inform","vers":"0.2.0","deps":[],"cksum":"f2db6c9c589091bbb1cf1891e0b0d7028bef7b4ebce0ee5bbc0ec4111a4babce","features":{"default":["fmt","io"],"fmt":[],"io":[]},"yanked":false}
 {"name":"inform","vers":"0.2.1","deps":[],"cksum":"9047368d42f695a041a960db18117edb972eb4f4a9ff5feb9b1236da0f5e0f51","features":{"default":["fmt","io"],"fmt":[],"io":[]},"yanked":false}
+{"name":"inform","vers":"0.2.2","deps":[],"cksum":"6646fb06a95d61f4332d9e2501775e7262b57390e7446f53f46794195566b372","features":{"default":["fmt","io"],"fmt":[],"io":[]},"yanked":false}
