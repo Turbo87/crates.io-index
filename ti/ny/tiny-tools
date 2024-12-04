@@ -1,1 +1,2 @@
 {"name":"tiny-tools","vers":"0.1.0","deps":[],"cksum":"58772048c7afa43ca58f918f0ec41ed88953468e852a66acdac313d09c9d6057","features":{"debug":[],"default":[]},"yanked":false}
+{"name":"tiny-tools","vers":"0.1.1","deps":[],"cksum":"e97698ddd44f76d78b80bc82efe3ae00545315d3082e16320bf974477f21da0b","features":{"default":[]},"yanked":false}
