@@ -1,2 +1,3 @@
 {"name":"basicftp","vers":"0.1.0","deps":[],"cksum":"2e814bd173ee2f0a416e27aca9261cf98613e8e684a620c33cbb4cf5ecb58b2d","features":{},"yanked":false}
 {"name":"basicftp","vers":"0.2.0","deps":[],"cksum":"1c616e97ceb4f7d656c87389afc4c05b958ed084898cd1d0350f72d2c1d6e262","features":{},"yanked":false}
+{"name":"basicftp","vers":"0.2.1","deps":[],"cksum":"a74a40efd0cf2c968777587a7509eaa9c28bea86ebd6f74aa0691903c1bc5626","features":{},"yanked":false}
