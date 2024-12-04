@@ -3,3 +3,4 @@
 {"name":"onceinit","vers":"0.0.3","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59f49bb00d7d8e60d7daf77faf1c86cbc6749fd87080e8bb43d5aff2845a9a8c","features":{},"yanked":false}
 {"name":"onceinit","vers":"0.0.4","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"489e963b6492965075a8d125053c118a79a0e8d9e26d4dbc91dbe30ad72dc3d3","features":{},"yanked":false}
 {"name":"onceinit","vers":"0.0.5","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e15627afd8e933c820641816869e6310da7c0dfa315698958100d0da6fd7fa2a","features":{},"yanked":false}
+{"name":"onceinit","vers":"0.0.6","deps":[],"cksum":"2c55227863e42a3d409f3c0411c384ac102c05476c7359a26549dcd6935c46fc","features":{"alloc":[],"default":[],"no_std":[]},"yanked":false}
