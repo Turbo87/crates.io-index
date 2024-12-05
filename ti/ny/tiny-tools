@@ -1,3 +1,4 @@
 {"name":"tiny-tools","vers":"0.1.0","deps":[],"cksum":"58772048c7afa43ca58f918f0ec41ed88953468e852a66acdac313d09c9d6057","features":{"debug":[],"default":[]},"yanked":false}
 {"name":"tiny-tools","vers":"0.1.1","deps":[],"cksum":"e97698ddd44f76d78b80bc82efe3ae00545315d3082e16320bf974477f21da0b","features":{"default":[]},"yanked":false}
 {"name":"tiny-tools","vers":"0.1.2","deps":[],"cksum":"4c377e5ec36526ad2895356303148a4b4d009cdeb23c4aed6d72b7f9ec393ee1","features":{"debug":[],"default":[]},"yanked":false}
+{"name":"tiny-tools","vers":"0.1.3","deps":[],"cksum":"482bf58cc13ffd387b697eb6a004d521b975869798f559760c188b5b1a825116","features":{"debug":[],"default":[]},"yanked":false}
