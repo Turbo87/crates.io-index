@@ -22,3 +22,4 @@
 {"name":"html2md-rs","vers":"0.9.1","deps":[],"cksum":"1b71be6f34f63b0f5a8ebfecd249389770ebc8df482581a5ae3c700c47f100d8","features":{},"yanked":false}
 {"name":"html2md-rs","vers":"0.9.2","deps":[],"cksum":"34529402c531e3681a0738809540b395e3fecd8abb846371f89b230fa37dd514","features":{},"yanked":false}
 {"name":"html2md-rs","vers":"0.10.0","deps":[],"cksum":"b2535f510e784fd2296b467cfa83dac629e71fe99d439a540ec4e854054035c3","features":{},"yanked":false}
+{"name":"html2md-rs","vers":"0.10.1","deps":[{"name":"percent-encoding","req":"^2.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0cd93296340389261dd62d30676f9d419fe38e91d8247b2f2c9dd0acae31e23","features":{},"yanked":false}
