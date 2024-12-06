@@ -3,3 +3,4 @@
 {"name":"blake2ya","vers":"0.9.2","deps":[],"cksum":"bb426ece0aa7d7c0e0b79eec0213d10616beffd758aa2d10c056a81e6258cea2","features":{},"yanked":false}
 {"name":"blake2ya","vers":"0.9.3","deps":[],"cksum":"a78182935fe5673b3613300bf5084fbd8ae42747cdea9baa1356d1add6d0cd00","features":{},"yanked":false}
 {"name":"blake2ya","vers":"0.9.4","deps":[],"cksum":"342facede6b6e48e40fe8d690c4c689a8a29e17c7ec7cc8c67fa3bf122797f2c","features":{},"yanked":false}
+{"name":"blake2ya","vers":"0.9.5","deps":[],"cksum":"98b9ce4213b78ce2a4e14ac02b3ae657ef4511a84b095b013e6095e8a70c8f03","features":{},"yanked":false}
