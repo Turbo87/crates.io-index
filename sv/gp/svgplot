@@ -32,3 +32,4 @@
 {"name":"svgplot","vers":"2024.3.0","deps":[],"cksum":"1d4175ba8ce96ea168a3f92d946246b246d7c63d173805927bd1e74400eac69a","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"svgplot","vers":"2024.4.0","deps":[],"cksum":"55676d7efb7a25883472e71ed8189bea8c1b3ce190ca0a0fa20e82e7dc626eed","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"svgplot","vers":"2024.5.0","deps":[],"cksum":"a08869f507215a3244adc5a36b4fbddba2e0bf6d22d567fe2f1dad4582a845c5","features":{},"yanked":false,"rust_version":"1.83.0"}
+{"name":"svgplot","vers":"2024.6.0","deps":[],"cksum":"e75c12f981f3f83bf8c1c5b8b9bb69e2ccb03d7c77a02abbaa475c097fb8efe0","features":{},"yanked":false,"rust_version":"1.83.0"}
