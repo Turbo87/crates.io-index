@@ -3,3 +3,4 @@
 {"name":"wars-test","vers":"0.3.0","deps":[],"cksum":"8487952203247faf6a77b54bff1cbc496b4a79c8f93b1d9b7b7b33c69fdec12f","features":{},"yanked":false}
 {"name":"wars-test","vers":"0.4.3","deps":[],"cksum":"9f034eebdc0453b96cb632625dd0e39080febe510eb6ae4386dae8079861c061","features":{},"yanked":false}
 {"name":"wars-test","vers":"0.5.2","deps":[],"cksum":"f9ebcc2cbce03aa585a0aab81423338d3a43f6ebc5070ed577033bc387cad263","features":{},"yanked":false}
+{"name":"wars-test","vers":"0.6.0","deps":[],"cksum":"537cd00b67102ed384bb624f877ebd46777f0f46a33b20db527933a3a8ba9905","features":{},"yanked":false}
