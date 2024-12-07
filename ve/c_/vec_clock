@@ -1,3 +1,3 @@
 {"name":"vec_clock","vers":"0.1.0","deps":[],"cksum":"b9af8a907c34c91bcd88cfb2a07c572c9b106894cc58cbf18170652a0cd3f7de","features":{},"yanked":false}
-{"name":"vec_clock","vers":"0.1.1","deps":[],"cksum":"0b896eb7205dd6707bf5f0267d04c180c9635222cd7536e2a23e7e0900ef45fb","features":{},"yanked":false}
+{"name":"vec_clock","vers":"0.1.1","deps":[],"cksum":"0b896eb7205dd6707bf5f0267d04c180c9635222cd7536e2a23e7e0900ef45fb","features":{},"yanked":true}
 {"name":"vec_clock","vers":"0.1.2","deps":[],"cksum":"6d6820e6a11cea3528139dd47a4a7379405d0e9a48cf5d223a8bad5879a12c14","features":{},"yanked":false}
