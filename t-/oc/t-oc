@@ -9,3 +9,4 @@
 {"name":"t-oc","vers":"4.0.1","deps":[],"cksum":"d10e55c0a99fc5e83ea16c735aa93cb779413dbad6522f7c890125fbc025f8b1","features":{"test-ext":[]},"yanked":true}
 {"name":"t-oc","vers":"5.0.0","deps":[],"cksum":"2dc3e6984273174f4563c728752eec81e1bd1797bf3989322ec5beb0e537d991","features":{"test-ext":[]},"yanked":false}
 {"name":"t-oc","vers":"5.0.1","deps":[],"cksum":"a53576df53ad18b2b2f9fbbaa83a6efe9c14ecf0b227ec8e7e52d4ae7d34a094","features":{"test-ext":[]},"yanked":false}
+{"name":"t-oc","vers":"5.0.2","deps":[],"cksum":"08d1430fb990ce3a7635b70459140a451a4cd5b8984fb612b48eba2386018eb1","features":{"test-ext":[]},"yanked":false}
