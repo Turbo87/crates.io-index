@@ -2,3 +2,4 @@
 {"name":"parsey","vers":"0.1.1","deps":[],"cksum":"045d3c5d3b8debc4f811acf954dc1b9add4d4468d18d30745a9d227f0a5e9447","features":{},"yanked":false}
 {"name":"parsey","vers":"0.1.2","deps":[],"cksum":"4b58db630c78c21e1ca20b609b7c35f2857c2125ea7dc8bbfeb233bcf99f50f2","features":{},"yanked":false}
 {"name":"parsey","vers":"0.2.0","deps":[],"cksum":"33659cbb75339fcebcb836986c4d27892a3bb7fd93f532d2c10ee4e721f41a26","features":{},"yanked":false}
+{"name":"parsey","vers":"0.2.1","deps":[],"cksum":"2f33454fb00a902d4fd807ce5652bc7e23ed274079bda8360a0cc11557040495","features":{},"yanked":false}
