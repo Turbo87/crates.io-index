@@ -9,3 +9,4 @@
 {"name":"seq-map","vers":"0.0.9","deps":[],"cksum":"91c3a30fb9eb125720b12a575e7ca4e5c729775756714b867a7d06b4b03cf216","features":{},"yanked":false}
 {"name":"seq-map","vers":"0.0.10","deps":[],"cksum":"2c41b1c45fc9aef96c12d1b00845d0927eb86a7d68d1c621e2f6fdcde19248ec","features":{},"yanked":false}
 {"name":"seq-map","vers":"0.0.11","deps":[],"cksum":"8974a8afd8d0506229c7b2cbdcdb332ccc8aae705b7841b5a3647228250c9d40","features":{},"yanked":false}
+{"name":"seq-map","vers":"0.0.12","deps":[],"cksum":"3615451ea918ebb7d4112561b9162a3b6a9354882117ab81a35f46285af77645","features":{},"yanked":false}
