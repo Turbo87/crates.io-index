@@ -4,3 +4,4 @@
 {"name":"parsey","vers":"0.2.0","deps":[],"cksum":"33659cbb75339fcebcb836986c4d27892a3bb7fd93f532d2c10ee4e721f41a26","features":{},"yanked":false}
 {"name":"parsey","vers":"0.2.1","deps":[],"cksum":"2f33454fb00a902d4fd807ce5652bc7e23ed274079bda8360a0cc11557040495","features":{},"yanked":false}
 {"name":"parsey","vers":"0.3.0","deps":[],"cksum":"b3fb92cc017e8ba013b5c335a3fb7f6b3f95c300ddc29e8dbd4160528e9358b8","features":{},"yanked":false}
+{"name":"parsey","vers":"0.4.0","deps":[{"name":"parsey-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80c135cfada70079ee23f451bbce4794c64559b2036c093e7ec02d51de87910c","features":{"default":["std"],"std":[]},"yanked":false}
