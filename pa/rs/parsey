@@ -5,3 +5,4 @@
 {"name":"parsey","vers":"0.2.1","deps":[],"cksum":"2f33454fb00a902d4fd807ce5652bc7e23ed274079bda8360a0cc11557040495","features":{},"yanked":false}
 {"name":"parsey","vers":"0.3.0","deps":[],"cksum":"b3fb92cc017e8ba013b5c335a3fb7f6b3f95c300ddc29e8dbd4160528e9358b8","features":{},"yanked":false}
 {"name":"parsey","vers":"0.4.0","deps":[{"name":"parsey-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80c135cfada70079ee23f451bbce4794c64559b2036c093e7ec02d51de87910c","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"parsey","vers":"0.4.1","deps":[{"name":"parsey-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"790f363b7f0bc9e0f946822db8940f5b30e2fa0bbde99f7da2cfd16736fc9514","features":{"default":["std"],"derive":[],"std":[]},"yanked":false}
