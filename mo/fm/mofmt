@@ -3,3 +3,4 @@
 {"name":"mofmt","vers":"0.4.2","deps":[{"name":"moparse","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42d7755f30f25b14a82cbdd8748e74fcd2bf91260974c02b22558d8a8189e30c","features":{},"yanked":false}
 {"name":"mofmt","vers":"0.5.0","deps":[{"name":"moparse","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"981e19269df4ddde3b734a5c8b824b661b34acb039006b8ea3e65a01b7889653","features":{},"yanked":false}
 {"name":"mofmt","vers":"0.5.1","deps":[{"name":"moparse","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0dd749dbd71b324b857f1154b1883c6d075cc035ff0bef4345f174d762f1499","features":{},"yanked":false}
+{"name":"mofmt","vers":"0.6.0","deps":[],"cksum":"01a40ab878381ba09dcceeb125365bacace70c9962907bb095dc9c9574bd0082","features":{},"yanked":false}
