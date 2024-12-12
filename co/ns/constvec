@@ -1,3 +1,4 @@
 {"name":"constvec","vers":"0.1.0","deps":[],"cksum":"ceab7416dcce103619214b6156b9118b1d0dac9282a15604edeca70ca275d173","features":{},"yanked":false}
 {"name":"constvec","vers":"0.1.1","deps":[],"cksum":"3cbb37c4c64a51a0110fac0202ed7efa0fd1b1064ba17ff590a88ee662de8cbf","features":{},"yanked":false}
 {"name":"constvec","vers":"0.1.2","deps":[],"cksum":"9368cf868600e8cb35fb61f814f8ce46bcbcc0e034884fedd008abed2034092a","features":{},"yanked":false}
+{"name":"constvec","vers":"0.1.4","deps":[],"cksum":"925e1d602ef29b8490d7101cc8b42cf3e6a46d1f231c835ec79dfedc42764f1c","features":{},"yanked":false}
