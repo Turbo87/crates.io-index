@@ -9,3 +9,4 @@
 {"name":"ketchup","vers":"1.1.1","deps":[],"cksum":"c60f8bcae2b0a0f8199dee916529ef485882dc6cee0c7d2cd1efae902374e4b4","features":{},"yanked":false}
 {"name":"ketchup","vers":"2.0.0","deps":[],"cksum":"65dc91328a2b722ef349b96e857b72b3ba76a649826aba520bdda5b5cd90f052","features":{},"yanked":false}
 {"name":"ketchup","vers":"2.0.1","deps":[],"cksum":"6391f2f60463ecfa05909e4de2ca06172ab82070908149330358637b4e622e0b","features":{},"yanked":false}
+{"name":"ketchup","vers":"2.0.2","deps":[],"cksum":"291f00d1079c0637af3fea508e75545798710468bbb07868a73696cd5a9a33cf","features":{},"yanked":false}
