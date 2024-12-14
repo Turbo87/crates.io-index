@@ -11,3 +11,4 @@
 {"name":"tagged-pointer","vers":"0.2.6","deps":[],"cksum":"b3ce6167595f5b361595d2ec45f76dcfbc7c3c0a51ff22af3883c085718ce656","features":{"fallback":[]},"yanked":false,"rust_version":"1.51"}
 {"name":"tagged-pointer","vers":"0.2.7","deps":[{"name":"compiletest_rs","req":"^0.10","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21aea775fb5416b71dc7f9970edb7be90dcccb2daaa4738561c7443673adf12e","features":{"fallback":[]},"yanked":false,"rust_version":"1.51"}
 {"name":"tagged-pointer","vers":"0.2.8","deps":[],"cksum":"e3ac5b6dfdde7199d5776702b07455050dd8789a9777bd69ab73472c45827c31","features":{"fallback":[]},"yanked":false,"rust_version":"1.51"}
+{"name":"tagged-pointer","vers":"0.2.9","deps":[],"cksum":"3538c399a85621c9b74ac21001d7e1dd81867ebd076724f047b1227e722de4a7","features":{"fallback":[]},"yanked":false,"rust_version":"1.51"}
