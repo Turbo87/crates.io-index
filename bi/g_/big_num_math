@@ -16,3 +16,4 @@
 {"name":"big_num_math","vers":"3.0.1","deps":[],"cksum":"529bcd382cf774e2d4f3c1098d9873121f5095d5bf1ae7d7bf66c8da3098da00","features":{"ext-tests":[],"shorter-dividend-support":[]},"yanked":false}
 {"name":"big_num_math","vers":"3.0.2","deps":[],"cksum":"49118b607c5c6dccc460d67260f4569cfea3227f293edecf72ca15810feedfbb","features":{"ext-tests":[],"shorter-dividend-support":[]},"yanked":true}
 {"name":"big_num_math","vers":"3.0.3","deps":[],"cksum":"1cb10f82ced38140bd1d63ef3cd13ecbf9dd7df9d584d578c07ffe91e7f4dece","features":{"ext-tests":[],"shorter-dividend-support":[]},"yanked":false}
+{"name":"big_num_math","vers":"3.1.0","deps":[],"cksum":"0387d017746c9b8e27b22eee83db86f832bc2868d26fe1b2e80626dab6c03b9b","features":{"ext-tests":[],"shorter-dividend-support":[]},"yanked":false}
