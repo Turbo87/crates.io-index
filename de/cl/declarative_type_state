@@ -21,3 +21,4 @@
 {"name":"declarative_type_state","vers":"0.5.0","deps":[],"cksum":"07de94fcb38bcf18d061f8ffd213782d017db30fc8781d372c019e726627eca3","features":{},"yanked":false}
 {"name":"declarative_type_state","vers":"0.6.0","deps":[],"cksum":"9490e119fa4372cb87604ef9f6de052226a465158886937e86613fa7e49f3835","features":{},"yanked":false}
 {"name":"declarative_type_state","vers":"0.7.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0022fcffc6dc24cc822b85b2c27f3e431b664942d5e12c170cb95722d47eae61","features":{},"yanked":false}
+{"name":"declarative_type_state","vers":"0.7.1","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89474b24a241953d93a9555d4da8aa5b5a0d3891138ae438f35cbc96359129bd","features":{},"yanked":false}
