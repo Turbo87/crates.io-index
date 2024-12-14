@@ -1,1 +1,2 @@
 {"name":"chia_wasm","vers":"0.11.0","deps":[{"name":"wasm-bindgen","req":"^0.2.92","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48ff8f7dbfed41f28266fab50c006259a73bea3c86c0f49466c112cd370b21b6","features":{},"yanked":false}
+{"name":"chia_wasm","vers":"0.17.0","deps":[{"name":"wasm-bindgen","req":"^0.2.95","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4c4bdd5230e52c890634e09329f017bbc63194edb0cb13ba106467c1745d968","features":{},"yanked":false}
