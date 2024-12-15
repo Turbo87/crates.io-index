@@ -6,3 +6,4 @@
 {"name":"constvec","vers":"0.1.7","deps":[],"cksum":"7f13f31e7cd6603ce59f64917dd16d6ff5b9c1f779e59a11e5ab646365d24536","features":{},"yanked":false}
 {"name":"constvec","vers":"0.1.8","deps":[],"cksum":"b129c8f7fe17b9c414f86f76bc6b2afe95b50aecb476b27053048d7411acbc2e","features":{},"yanked":false}
 {"name":"constvec","vers":"0.1.9","deps":[],"cksum":"0cbe6ad723c0bdadfe58d127e6b1a3c70d15f1d214f279c03a0dfc33ef70e8f9","features":{},"yanked":false}
+{"name":"constvec","vers":"0.1.10","deps":[],"cksum":"5e8ba662348a6ebc27e8403a7fc075d59b2c6235b8e1bb4aaef1235d49901945","features":{},"yanked":false}
