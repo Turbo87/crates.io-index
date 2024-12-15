@@ -5,3 +5,4 @@
 {"name":"solana-define-syscall","vers":"2.1.2","deps":[],"cksum":"debfb6b4d3b263112fd001e6102cba148674807ef9c6cd7a80c3883137881032","features":{},"yanked":false}
 {"name":"solana-define-syscall","vers":"2.1.4","deps":[],"cksum":"8973c0e4811e915f5ee84b68cea4af8231e8157f47b6f6a7aebbac2777227eb5","features":{},"yanked":false}
 {"name":"solana-define-syscall","vers":"2.1.5","deps":[],"cksum":"6dae93c2bfe6a19a652d9b7c5c085540aac1e5ed6504d40ed0cb7271c935121b","features":{},"yanked":false}
+{"name":"solana-define-syscall","vers":"2.1.6","deps":[],"cksum":"a23cf0144176f94019a27ce46372661f67007232eea16cae96cb985fc25131d5","features":{},"yanked":false}
