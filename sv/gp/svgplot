@@ -42,3 +42,4 @@
 {"name":"svgplot","vers":"2024.13.0","deps":[],"cksum":"2474b6a4533444d497780b9c30a2fd3031e3f0ff02fc0a5bc4c634fc7db3a63f","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"svgplot","vers":"2024.14.0","deps":[],"cksum":"d0e995c796bcacfc468a478d785ad73c8e5f655e2b95db86fc3894bee52064ab","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"svgplot","vers":"2024.15.0","deps":[],"cksum":"20930df2552461dfdcf8f188e3e7cdc67a424de7fadb4bc77b53d1a3ad8499b5","features":{},"yanked":false,"rust_version":"1.83.0"}
+{"name":"svgplot","vers":"2024.15.1","deps":[],"cksum":"47814152a1a4b0770779c45f96634998b1b838587d666553a4d3e0a252cff0af","features":{},"yanked":false,"rust_version":"1.83.0"}
