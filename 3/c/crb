@@ -6,3 +6,4 @@
 {"name":"crb","vers":"0.0.5","deps":[],"cksum":"c08f94e208befd8226e57224affb31ab494a39e633307a50ee6c9e16577d78ef","features":{},"yanked":false}
 {"name":"crb","vers":"0.0.6","deps":[],"cksum":"7d4b81bbecb2ec357623f98a41a2b0cfb671612f15f9b12853bd5d793fbb4d8b","features":{},"yanked":false}
 {"name":"crb","vers":"0.0.7","deps":[],"cksum":"ce7aaf7b28aa12d68d2aaaf261757e55079ffc8f5abde35db4c3fdf202077c20","features":{},"yanked":false}
+{"name":"crb","vers":"0.0.9","deps":[{"name":"crb-core","req":"^0.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"646651240899ee6c61f546f15b36a945c80208e50bb18a889af24ee45d9347da","features":{},"yanked":false}
