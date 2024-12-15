@@ -22,3 +22,4 @@
 {"name":"treerder","vers":"3.0.2","deps":[],"cksum":"5499f56f94dfb81abe6055a66086795a0ecfbfb394ed67679a17276a3886d941","features":{"test-ext":[]},"yanked":false}
 {"name":"treerder","vers":"3.0.3","deps":[],"cksum":"824ffeb0e2b58c8294a5d061e9afb93f1f0c4f6997146a49baf2ae7c9f7b6a21","features":{"test-ext":[]},"yanked":false}
 {"name":"treerder","vers":"3.0.4","deps":[],"cksum":"981d559d95a320d4e9e8d866d1223986151713e577820210f30ec723b5a737b9","features":{"test-ext":[]},"yanked":false}
+{"name":"treerder","vers":"3.0.5","deps":[],"cksum":"099c24aee76ca9b29dc41c99b3ecfb93de8a0cc7d7f66c24a32e18e739798d6f","features":{"test-ext":[]},"yanked":false}
