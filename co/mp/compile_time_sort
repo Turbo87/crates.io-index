@@ -1,2 +1,3 @@
 {"name":"compile_time_sort","vers":"0.1.0","deps":[],"cksum":"19c88e658505f14ef98e8af3d2e7a865e5f707f8c0d46cc553628b79f43ffe71","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"compile_time_sort","vers":"0.1.1","deps":[],"cksum":"b2f5bf2b24859ebdbdfdca68f072f501b337f9a5c06ac2769bec2832eea3ebbe","features":{},"yanked":false,"rust_version":"1.83.0"}
+{"name":"compile_time_sort","vers":"0.1.2","deps":[],"cksum":"7db3a862c6c4e62b0f9ab22a6e03146d2d15c3631f05f2d246841dc0c913a811","features":{},"yanked":false,"rust_version":"1.83.0"}
