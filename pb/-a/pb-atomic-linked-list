@@ -1,3 +1,3 @@
 {"name":"pb-atomic-linked-list","vers":"0.1.0","deps":[],"cksum":"fa3db9f96b7f9ba54237e84b0d37c2433a162c0bd2dd02e9c96ba4cb7cb88982","features":{},"yanked":false}
 {"name":"pb-atomic-linked-list","vers":"0.1.1","deps":[],"cksum":"350532269c150e5e34a286b1b93780e767eb3300499bf6ac328cfa2b51be2a45","features":{},"yanked":false}
-{"name":"pb-atomic-linked-list","vers":"0.1.2","deps":[],"cksum":"9900c07d9a20eb7e307b5f758382969c943c1fc541c3285a98af20b0c902c77b","features":{},"yanked":false}
+{"name":"pb-atomic-linked-list","vers":"0.1.2","deps":[],"cksum":"9900c07d9a20eb7e307b5f758382969c943c1fc541c3285a98af20b0c902c77b","features":{},"yanked":true}
