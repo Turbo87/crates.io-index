@@ -16,3 +16,4 @@
 {"name":"core-test-1","vers":"0.2.13","deps":[],"cksum":"5d116a948b85cbabb98e09ded92db84906d9e51d134cdaee8ecaf6cfe771b2bd","features":{},"yanked":false}
 {"name":"core-test-1","vers":"0.2.15","deps":[],"cksum":"627ff32a7e4afdd1e31a20ae7703512afd337cc127a037478c6b191d7519c0f9","features":{},"yanked":false}
 {"name":"core-test-1","vers":"0.2.16","deps":[],"cksum":"f32f5ceb7de9f59a0fbb06a66cd6032b7b46fb09f34bd8839f049470b99f4f5d","features":{},"yanked":false}
+{"name":"core-test-1","vers":"0.2.17","deps":[],"cksum":"9958b8a58ff819c3115d6cfd040faab868c736bfe9e060d31f2f5fe986d61518","features":{},"yanked":false}
