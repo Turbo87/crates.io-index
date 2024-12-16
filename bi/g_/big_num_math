@@ -18,3 +18,4 @@
 {"name":"big_num_math","vers":"3.0.3","deps":[],"cksum":"1cb10f82ced38140bd1d63ef3cd13ecbf9dd7df9d584d578c07ffe91e7f4dece","features":{"ext-tests":[],"shorter-dividend-support":[]},"yanked":false}
 {"name":"big_num_math","vers":"3.1.0","deps":[],"cksum":"0387d017746c9b8e27b22eee83db86f832bc2868d26fe1b2e80626dab6c03b9b","features":{"ext-tests":[],"shorter-dividend-support":[]},"yanked":false}
 {"name":"big_num_math","vers":"3.1.1","deps":[],"cksum":"45ed6bfbbfccd87817e6862a6e7e597a8016154699e0cf288b0a5bcb4d57fa4a","features":{"ext-tests":[],"shorter-dividend-support":[]},"yanked":false}
+{"name":"big_num_math","vers":"3.1.2","deps":[],"cksum":"74d7b206b9b90e6ae65cd645be85eec8a42f36cc3b94e94b8d04b178b96e5a8e","features":{"ext-tests":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":false}
