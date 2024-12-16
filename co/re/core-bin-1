@@ -2,3 +2,4 @@
 {"name":"core-bin-1","vers":"0.1.1","deps":[],"cksum":"2b96c3162444a0d64f0e1b3c7cfef744cb4e4e66cf4ec96f0fac583e7d5dcf7f","features":{},"yanked":false}
 {"name":"core-bin-1","vers":"0.1.2","deps":[],"cksum":"1824062553da5634fa8cdcf50f98d7d8d6d60bc0110e68e42637ded8b1211a50","features":{},"yanked":false}
 {"name":"core-bin-1","vers":"0.1.3","deps":[],"cksum":"131004b3e2f9ec35aaf2ac29c2c7861f07703d4375fbbf5a3af5fe7e05dd8d11","features":{},"yanked":false}
+{"name":"core-bin-1","vers":"0.2.15","deps":[],"cksum":"a1e0c0402776de5c985ebb249cf89a66e25dbae97830d92910636dad8be63a7a","features":{},"yanked":false}
