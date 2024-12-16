@@ -1,2 +1,3 @@
 {"name":"core-test-3","vers":"0.2.12","deps":[],"cksum":"e7eec1de01b5a1a0c74aca1c68d3ef55aa7cb78ee1fd522e434810a4d898d37d","features":{},"yanked":false}
 {"name":"core-test-3","vers":"0.2.13","deps":[],"cksum":"75b8a5a42a15adb7627903a03e852e8a4c481792b589fbcc3485448f987f606d","features":{},"yanked":false}
+{"name":"core-test-3","vers":"0.2.15","deps":[],"cksum":"10f5f5c2e297314dd49ff8449b4f9ddff9fac642ac960e5fd8fa51e57f8f942c","features":{},"yanked":false}
