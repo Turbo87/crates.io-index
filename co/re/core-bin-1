@@ -3,3 +3,4 @@
 {"name":"core-bin-1","vers":"0.1.2","deps":[],"cksum":"1824062553da5634fa8cdcf50f98d7d8d6d60bc0110e68e42637ded8b1211a50","features":{},"yanked":false}
 {"name":"core-bin-1","vers":"0.1.3","deps":[],"cksum":"131004b3e2f9ec35aaf2ac29c2c7861f07703d4375fbbf5a3af5fe7e05dd8d11","features":{},"yanked":false}
 {"name":"core-bin-1","vers":"0.2.15","deps":[],"cksum":"a1e0c0402776de5c985ebb249cf89a66e25dbae97830d92910636dad8be63a7a","features":{},"yanked":false}
+{"name":"core-bin-1","vers":"0.2.16","deps":[],"cksum":"4a65447fa8b9ee6a5153b35e0fc18c3ad44ad632224471fa06f1511ccbdaaf9f","features":{},"yanked":false}
