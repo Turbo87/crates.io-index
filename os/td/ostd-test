@@ -10,3 +10,4 @@
 {"name":"ostd-test","vers":"0.9.4","deps":[],"cksum":"424d4901827223020b27d1c864f4098c0097ff3acf72ba78f848e4c4dcbf755b","features":{},"yanked":false}
 {"name":"ostd-test","vers":"0.10.0","deps":[],"cksum":"2b3bb0e0760dbca2169ea8030eb16466c453fe74a712cbfeaf99acad49377147","features":{},"yanked":false}
 {"name":"ostd-test","vers":"0.10.1","deps":[],"cksum":"88d8968092e2d6e321df462ffff203a494c6c3755d96ac2bd41072e86cf6783f","features":{},"yanked":false}
+{"name":"ostd-test","vers":"0.10.2","deps":[],"cksum":"9a5b9045c54d9d0d1746fd608a1e0f79507d81ee05a15d21298c1c88acee6eae","features":{},"yanked":false}
