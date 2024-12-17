@@ -18,3 +18,4 @@
 {"name":"core-test-1","vers":"0.2.16","deps":[],"cksum":"f32f5ceb7de9f59a0fbb06a66cd6032b7b46fb09f34bd8839f049470b99f4f5d","features":{},"yanked":false}
 {"name":"core-test-1","vers":"0.2.17","deps":[],"cksum":"9958b8a58ff819c3115d6cfd040faab868c736bfe9e060d31f2f5fe986d61518","features":{},"yanked":false}
 {"name":"core-test-1","vers":"0.2.18","deps":[],"cksum":"43a003dab32d02732a28a039592cce268cfd4bf17f804cd3db805386ed2e3aff","features":{},"yanked":false}
+{"name":"core-test-1","vers":"0.2.21","deps":[],"cksum":"1e74c3fe7b65bfa757db04baf2a55c0f1bd8cc63c62d681d2808163c048ecf71","features":{},"yanked":false}
