@@ -3,3 +3,4 @@
 {"name":"affinidi-messaging-processor","vers":"0.7.5","deps":[],"cksum":"92217afe9331b9ec4900088f0a684c543d2d179fdae8acb7bcad615bbb0b55ee","features":{},"yanked":false}
 {"name":"affinidi-messaging-processor","vers":"0.7.6","deps":[],"cksum":"19c8c7e500de66aa907c0590322a555ad93eb3625b17dc9ae2bf77469a047d85","features":{},"yanked":false}
 {"name":"affinidi-messaging-processor","vers":"0.8.0","deps":[{"name":"tokio","req":"^1.42","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2f94fc0411d7ef057ca760e10cab03ef665e08a856fd784ad4621e8b74602b41","features":{},"yanked":false}
+{"name":"affinidi-messaging-processor","vers":"0.8.1","deps":[{"name":"tokio","req":"^1.42","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"586f1723ad6a91e8ac4ab657c564a5384b21ce6aa85478a08d2fc3440b235317","features":{},"yanked":false}
