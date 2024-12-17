@@ -1,1 +1,2 @@
 {"name":"z157","vers":"0.0.1","deps":[{"name":"winnow","req":"^0.6.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e816a9b88a744893429dafcb298dc2cdaf0344ea824febab26a93a137096093b","features":{},"yanked":false}
+{"name":"z157","vers":"0.0.2","deps":[{"name":"winnow","req":"^0.6.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1d2c064b438328a2e25d982a4a44c4df6939ea074080f0e6ceb9d030f82dd2a","features":{},"yanked":false}
