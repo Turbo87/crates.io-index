@@ -1,1 +1,2 @@
 {"name":"advent-of-utils","vers":"0.2.0","deps":[{"name":"advent-of-utils-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1698aa76c59ffe37cc2929a9e375a2d5d779307e17d68d357b5239fbdd851a30","features":{},"yanked":false}
+{"name":"advent-of-utils","vers":"0.2.1","deps":[{"name":"advent-of-utils-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9136e886211ce2b24dae58e380c2a5faee964524d0377b66393a88fe4ef883c","features":{},"yanked":false}
