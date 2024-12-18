@@ -1,2 +1,3 @@
 {"name":"sha3-utils","vers":"0.1.0","deps":[],"cksum":"e1f2537bc1f00360471b5e4a73d6ece03e8db8fb4a6cef30cdf4a0d460649bab","features":{"alloc":[],"default":[],"std":[]},"yanked":false}
 {"name":"sha3-utils","vers":"0.2.0","deps":[],"cksum":"6f70a63192bb8d885a1466f1ec28ddc3758f8ede53ff2dfe60d4ef20bef1acbe","features":{"alloc":[],"default":[],"std":[]},"yanked":false}
+{"name":"sha3-utils","vers":"0.2.1","deps":[],"cksum":"8d676e5b7e2697b35e4223431b1cc874f171b9f927639319b5821e55d335f274","features":{"alloc":[],"default":[],"std":[]},"yanked":false}
