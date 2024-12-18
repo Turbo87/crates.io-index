@@ -3,3 +3,4 @@
 {"name":"chap14a_publish_to_crates_io_demo1","vers":"0.1.3","deps":[],"cksum":"5d460cddade90e4405ff312a17c16ddcdda6fa2b0267831c40cb3ae8425e2c78","features":{},"yanked":false}
 {"name":"chap14a_publish_to_crates_io_demo1","vers":"0.1.4","deps":[],"cksum":"c2971f9067e5d8c3e4df0d4d2ad11858a89ef30fed3413a0d163d965c053539d","features":{},"yanked":false}
 {"name":"chap14a_publish_to_crates_io_demo1","vers":"0.1.5","deps":[],"cksum":"85c27862a13148dd2fdfaa6c6ea7f23fba2c26156936eca13d5fa6d337a13c07","features":{},"yanked":false}
+{"name":"chap14a_publish_to_crates_io_demo1","vers":"0.1.6","deps":[],"cksum":"8312616f37c1f8dccaf183b53a1f231a4c2c7f7a719fd866b60e8cf2c467a3d7","features":{},"yanked":false}
