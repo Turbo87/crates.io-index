@@ -1,0 +1,1 @@
+{"name":"geodb","vers":"0.1.0-alpha1","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8ad4cea22ea95bf1936d58dd887bd37a2cd851cd85472db30a2b462795e50cd1","features":{},"yanked":false}
