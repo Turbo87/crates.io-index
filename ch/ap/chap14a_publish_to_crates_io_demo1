@@ -6,3 +6,4 @@
 {"name":"chap14a_publish_to_crates_io_demo1","vers":"0.1.6","deps":[],"cksum":"8312616f37c1f8dccaf183b53a1f231a4c2c7f7a719fd866b60e8cf2c467a3d7","features":{},"yanked":false}
 {"name":"chap14a_publish_to_crates_io_demo1","vers":"0.1.7","deps":[],"cksum":"4a68879894dfe1684b74fbc08c6684a1c47b70f1ce1ff50d18bfd8867509a6d3","features":{},"yanked":false}
 {"name":"chap14a_publish_to_crates_io_demo1","vers":"0.1.8","deps":[],"cksum":"e2d591c1c4741398b8b9ae4fb483b7b7610c087e32d68887759c05953aceb8fc","features":{},"yanked":false}
+{"name":"chap14a_publish_to_crates_io_demo1","vers":"0.1.9","deps":[],"cksum":"69c943aa31d0045d4785772c8e278d53d334596c9669a1f873a26d4b7a2283cf","features":{},"yanked":false}
