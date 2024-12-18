@@ -11,3 +11,4 @@
 {"name":"mutcursor","vers":"0.2.0","deps":[],"cksum":"6f033579f7ebadd375e60f2912483eac7df7cb5eb26727b3eef8f31344440eb1","features":{"no_std":[]},"yanked":false}
 {"name":"mutcursor","vers":"0.2.1","deps":[],"cksum":"306f8ca054753aac29d3e2dd9a9d92cea3b393f4b19d86c11b88342854d03a25","features":{"no_std":[]},"yanked":false}
 {"name":"mutcursor","vers":"0.2.2","deps":[],"cksum":"ddbbc1eb955b0cd9e70b69b1eb2234565cc606fe12106f362a2961f6adbd25ba","features":{"no_std":[]},"yanked":false}
+{"name":"mutcursor","vers":"0.3.0","deps":[],"cksum":"42ea0298aa9afb20e3887e74900ef0d2b72e3ac137e8127c4d7770a0a86f85d2","features":{"no_std":[]},"yanked":false}
