@@ -5,3 +5,4 @@
 {"name":"shittyinput","vers":"0.1.4","deps":[],"cksum":"5fcc49d2d0f632dbdee36925876fa529ea44aa7c9c4000008d4994c2b49840fa","features":{},"yanked":false}
 {"name":"shittyinput","vers":"1.0.0","deps":[],"cksum":"4aeb420a3b631b6b700b34bc2929eba5a7df061aca5d7f6a81f5d732f8ba62d7","features":{},"yanked":false}
 {"name":"shittyinput","vers":"1.0.1","deps":[],"cksum":"38c38435b561121523d5d507a91ad9ad3c17337372d0b91c527326ba0ff87de0","features":{},"yanked":false}
+{"name":"shittyinput","vers":"1.1.1","deps":[],"cksum":"bdd09fad429ee3680c79fef7642a377e7ca23480221e2635b8c64b6c877ce39f","features":{},"yanked":false}
