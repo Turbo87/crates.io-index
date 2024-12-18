@@ -4,3 +4,4 @@
 {"name":"mikel_binary_tree","vers":"0.1.3","deps":[],"cksum":"9d24cb7bf36def541b6abc6e9181d8023daeffa34fc4f6542b0babdac81bce6d","features":{},"yanked":false}
 {"name":"mikel_binary_tree","vers":"0.1.4","deps":[],"cksum":"8121b765106f75d76e61b29ad5c339d9cb59869997168a8d8ffc7776df1e6f17","features":{},"yanked":false}
 {"name":"mikel_binary_tree","vers":"0.1.5","deps":[],"cksum":"0570f6f37adf110c8b8a36405752bc077c75895c4018f9f0e762e9aecc5387e7","features":{},"yanked":false}
+{"name":"mikel_binary_tree","vers":"0.1.6","deps":[],"cksum":"f41d2f1baced6f940116af46da3de3005fd1b6230d507603497dbab74a2c18ef","features":{},"yanked":false}
