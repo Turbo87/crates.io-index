@@ -3,3 +3,4 @@
 {"name":"relib_internal_crate_compilation_info","vers":"0.1.3","deps":[],"cksum":"87c31d6d526fe7e287111bb2f7a3f5b1c6336278917881e071656336f92e9cd7","features":{"build":[],"normal":[]},"yanked":false,"rust_version":"1.83.0"}
 {"name":"relib_internal_crate_compilation_info","vers":"0.1.4","deps":[],"cksum":"84bfdee0b510a99e74328d7a9abaf0e5b30ef5280a157f4cab296d9a05757a32","features":{"build":[],"normal":[]},"yanked":false,"rust_version":"1.83.0"}
 {"name":"relib_internal_crate_compilation_info","vers":"0.1.6","deps":[],"cksum":"eacd74e981df26a6a48f15bbf9f429f9dcedec97f46c186087fe5a5548a8d130","features":{"build":[],"normal":[]},"yanked":false,"rust_version":"1.83.0"}
+{"name":"relib_internal_crate_compilation_info","vers":"0.1.7","deps":[],"cksum":"e58c9ddd863775ed17d7edc50ab37a0de43e2231d7b2d290ea051ae34a6a7490","features":{"build":[],"normal":[]},"yanked":false,"rust_version":"1.83.0"}
