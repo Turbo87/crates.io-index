@@ -5,3 +5,4 @@
 {"name":"aoc19intcode","vers":"0.2.1","deps":[],"cksum":"be95fed56de4648f2299d45b7d31922f10feacd692c1bc144cd3bec3676e343a","features":{},"yanked":false}
 {"name":"aoc19intcode","vers":"0.2.2","deps":[],"cksum":"b9026013c67677b0c361ef9b3f23e42d4aecb067d4c46b6cf2c034535887c1e0","features":{},"yanked":false}
 {"name":"aoc19intcode","vers":"0.2.3","deps":[],"cksum":"e10dea93cf3310ab5346ea5ba2377330adad9f53729616205f3007170e11e76e","features":{},"yanked":false}
+{"name":"aoc19intcode","vers":"0.3.0","deps":[],"cksum":"b76e28944dd1943399d7c794b9b5b7a641186bd8f9113a0052d0d0f5fa88e1e3","features":{},"yanked":false}
