@@ -19,3 +19,4 @@
 {"name":"sql_lexer","vers":"0.9.5","deps":[],"cksum":"0e26133b4f733e8e003ea4649209b4bd3ffd128395df3b49b0f3efca8bcd5310","features":{},"yanked":false}
 {"name":"sql_lexer","vers":"0.9.6","deps":[],"cksum":"de846806337237315e52836f76c6b69d18ac85a7b94b37cef5b67f16f9208a0f","features":{},"yanked":false}
 {"name":"sql_lexer","vers":"0.9.7","deps":[],"cksum":"a6322a797236f11b26ea7f9bed8a9271e29cc75d65d87916874c7821ca5fce98","features":{},"yanked":false}
+{"name":"sql_lexer","vers":"0.9.8","deps":[],"cksum":"34aa9c6737481c92fc033551eeb267f0b4373ad196ad23e954ccd5ea4d43a164","features":{},"yanked":false}
