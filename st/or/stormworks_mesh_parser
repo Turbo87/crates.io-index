@@ -1,1 +1,2 @@
 {"name":"stormworks_mesh_parser","vers":"0.1.1","deps":[{"name":"vek","req":"^0.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e050f6fc61597df58964e2b403b3f748daa35ea1c5170d02357cdaf550341abf","features":{},"yanked":false}
+{"name":"stormworks_mesh_parser","vers":"0.1.2","deps":[{"name":"vek","req":"^0.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c3071bab82a0f867c3363cb11d4e0044fa165652f8dbdbcea7574aeba7c10f4","features":{},"yanked":false}
