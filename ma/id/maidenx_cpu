@@ -1,1 +1,0 @@
-{"name":"maidenx_cpu","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6e69a6688b9cb697f94e748b7edfaabec19dd956221d26d7a8c192429a67082","features":{"nn":[]},"yanked":false}
