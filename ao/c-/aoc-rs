@@ -8,3 +8,4 @@
 {"name":"aoc-rs","vers":"0.1.4","deps":[],"cksum":"a52c70428920e11cf37a17196c7f617a84d0e6ced1ac46bbd850e94ebb41ce82","features":{},"yanked":false}
 {"name":"aoc-rs","vers":"0.1.5","deps":[],"cksum":"06e4ef902c2e24209edfa776e3aad847045268ca9e8225a26ea33b4ca1b95d30","features":{},"yanked":false}
 {"name":"aoc-rs","vers":"0.1.6","deps":[],"cksum":"de498a21568a32a2e40740ec4129e05520fd3bd6c041082b850688b48fe80bb9","features":{},"yanked":false}
+{"name":"aoc-rs","vers":"0.2.0","deps":[],"cksum":"82ffe97dc7743908ec64b639cb86085bf90fd580df93467a609929052cc789fc","features":{},"yanked":false}
