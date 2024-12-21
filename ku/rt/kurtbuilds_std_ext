@@ -9,3 +9,4 @@
 {"name":"kurtbuilds_std_ext","vers":"0.1.9","deps":[],"cksum":"7fd3c45ab6c9f51f0798488e862536444cb92a8d08ef452c0f2a20db2c971286","features":{},"yanked":false}
 {"name":"kurtbuilds_std_ext","vers":"0.1.10","deps":[],"cksum":"96b18b6c726deb8f1041b4059845740d72dc29d9687349cd2a81f0430a0b0fb3","features":{},"yanked":false}
 {"name":"kurtbuilds_std_ext","vers":"0.1.11","deps":[],"cksum":"17d22337933fbe4fc7fd7c9d58ae29b9c7afaf53ed6e82f874cae12708a5e525","features":{},"yanked":false}
+{"name":"kurtbuilds_std_ext","vers":"0.1.12","deps":[],"cksum":"f282f131166381313495b1973eb758e2fd6c1a43dab528994aa5fd3a77d94a89","features":{},"yanked":false}
