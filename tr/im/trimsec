@@ -1,1 +1,2 @@
 {"name":"trimsec","vers":"0.1.0","deps":[{"name":"colored","req":"^2.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41467edf527bc1ef7c6321df8800538fd6b4b8b8a9da57a202613784fccd9d0d","features":{},"yanked":false}
+{"name":"trimsec","vers":"0.1.1","deps":[{"name":"colored","req":"^2.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b26c1752c59ef60a7a2563e082edbf2bf5c98e7fcc6ccf280baeef7738e1ab48","features":{},"yanked":false}
