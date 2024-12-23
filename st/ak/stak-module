@@ -1,1 +1,2 @@
 {"name":"stak-module","vers":"0.1.1","deps":[{"name":"hmr","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2739d204e9b17992d09a1407c405738c55d1707bca9eeb680b198dd6778902c","features":{},"yanked":false}
+{"name":"stak-module","vers":"0.1.2","deps":[{"name":"hmr","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a820e1b0906144a52d6a2ce52af6ba6fe2b084e2ee66d7c3eb2b81cdeab2ca62","features":{},"yanked":false}
