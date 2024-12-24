@@ -32,3 +32,4 @@
 {"name":"fastbuf","vers":"0.32.0","deps":[],"cksum":"a73a48388fa6958d679ebae2109d5125606cc0da019a708f6a6be0a18e3e3df7","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"fastbuf","vers":"0.33.0","deps":[],"cksum":"40d18446a967c585de84dbe6f01662bf553ca6d6c35628c37ffd9115fcec8d43","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"fastbuf","vers":"0.34.0","deps":[],"cksum":"d97d829f916c555efbc856c04a68d88fc765abdfa4325362aedecc78024c3ebe","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"fastbuf","vers":"0.35.0","deps":[],"cksum":"e2d499070b9de8b3cdafb54811fb313b76b700a5897af96eca37c418aedf8662","features":{"default":["std"],"std":[]},"yanked":false}
