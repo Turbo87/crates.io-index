@@ -1,1 +1,2 @@
 {"name":"ringal","vers":"0.1.0","deps":[],"cksum":"3959da42ac0e4277d1be2a0b1760a395f4ca98d78eca8eb924cce83b2d154a7c","features":{"default":[],"drop":[],"tls":["drop"]},"yanked":false}
+{"name":"ringal","vers":"0.2.0","deps":[],"cksum":"433efda419268452444016753c427d9a65fceaa1d4a2e359582332b97fe45b2e","features":{"default":[],"drop":[],"tls":["drop"]},"yanked":false}
