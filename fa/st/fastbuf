@@ -36,3 +36,4 @@
 {"name":"fastbuf","vers":"0.36.0","deps":[],"cksum":"8c9f85682a041dcc819b70091dcbb17e906af20bf3e488c3c6175a1f3bc05689","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"fastbuf","vers":"0.37.0","deps":[],"cksum":"ed514ca810ffe69831e2bdf0103fbd5d681eed5c9febf0045cd697decbf8b5ce","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"fastbuf","vers":"0.38.0","deps":[],"cksum":"45af9cdd479227e9b10ab4ff837c27f93820222bf04ff3d79fecb7be0fe2ce6d","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"fastbuf","vers":"0.39.0","deps":[],"cksum":"a826fbd667bb850d3d7fae5f9a1965ce23937e3e8eacddb7b88bac15229f186d","features":{"default":["std"],"std":[]},"yanked":false}
