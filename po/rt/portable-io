@@ -1,1 +1,2 @@
 {"name":"portable-io","vers":"0.0.0","deps":[],"cksum":"f02547666afb751dd52b502a49cf3de93f1fe17b90b7ce51fd357b57d8eaaf86","features":{},"yanked":false}
+{"name":"portable-io","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.169","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"acd9638427bf31d46ae3e945876847385679fa433584fb2bd1bb5fce4a731e8a","features":{"alloc":[]},"yanked":false}
