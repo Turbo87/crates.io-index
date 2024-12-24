@@ -1,2 +1,2 @@
-{"name":"zrand","vers":"0.1.0","deps":[],"cksum":"16b032723f714c6a62f80cff9a38e2fa87ec50a86dda92df367bbab015c5a4ed","features":{},"yanked":true}
+{"name":"zrand","vers":"0.1.0","deps":[],"cksum":"16b032723f714c6a62f80cff9a38e2fa87ec50a86dda92df367bbab015c5a4ed","features":{},"yanked":false}
 {"name":"zrand","vers":"0.1.1","deps":[],"cksum":"512a2128d02828c14ad9c8a93c27639b6038cfe10f44d8d30c43ffb0774a885a","features":{},"yanked":false}
