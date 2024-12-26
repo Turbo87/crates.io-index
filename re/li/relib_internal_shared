@@ -8,3 +8,4 @@
 {"name":"relib_internal_shared","vers":"0.2.0","deps":[],"cksum":"a9c61fafb1e89e6bde1c901a384dd9e53e67df645b8a394e1100fcdb141e9285","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"relib_internal_shared","vers":"0.2.1","deps":[],"cksum":"34dfde9c5f60dcd890928e33233b5a4cb9f9fa96bd8e98a46a45057d03e280bf","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"relib_internal_shared","vers":"0.2.2","deps":[],"cksum":"ac3757cd93f5cd917fa11db2318032d4b8326b330974da457fe9317e4c72250f","features":{},"yanked":false,"rust_version":"1.83.0"}
+{"name":"relib_internal_shared","vers":"0.2.3","deps":[],"cksum":"857bf8d64477555f9f0bd7d8e3f6df9664ba9861e45dd40b74b85a9634d35387","features":{},"yanked":false,"rust_version":"1.83.0"}
