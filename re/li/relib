@@ -9,3 +9,4 @@
 {"name":"relib","vers":"0.2.0","deps":[],"cksum":"138f96c1fc2705212b207ee9bd7bcafc188f2eda8f7185f50d9f81a4d07c2c04","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"relib","vers":"0.2.1","deps":[],"cksum":"771e6cc56038c48454104b5654d9596ec9280300e96b3812f42ca8677f900f89","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"relib","vers":"0.2.2","deps":[],"cksum":"4df180992cadc54baad5e3a0453bf96438bf32337aea7a56350052200dfd145b","features":{},"yanked":false,"rust_version":"1.83.0"}
+{"name":"relib","vers":"0.2.3","deps":[],"cksum":"0dfa3ab0035d11b378fa5f8f56cea36eaa7710b11be72c2dac9ff1e6a10ea7a3","features":{},"yanked":false,"rust_version":"1.83.0"}
