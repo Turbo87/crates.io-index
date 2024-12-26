@@ -1,1 +1,2 @@
 {"name":"quickleaf","vers":"0.0.1","deps":[{"name":"valu3","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"118bc08a3999f8c16e001f9ff3f9387538f31b5c7c77672f92534d7c8b85a258","features":{},"yanked":false}
+{"name":"quickleaf","vers":"0.1.0","deps":[{"name":"valu3","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"176f548a0e0e259e19623a4b7dc2c9dac8cbc91e5cf8e01fc4be961e3695cc77","features":{},"yanked":false}
