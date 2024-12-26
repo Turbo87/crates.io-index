@@ -1,1 +1,2 @@
 {"name":"km-crates-publish-test","vers":"0.0.0-development","deps":[],"cksum":"b499701eebc5acf59b5dd1418ce9bc4cfeae89637a83e6704780b3c10fd7a0c6","features":{"coverage":[]},"yanked":false,"rust_version":"1.83.0"}
+{"name":"km-crates-publish-test","vers":"1.0.0","deps":[],"cksum":"502c3d02f5a3b7c6a0975917e83064021cc3e5ec646048acb02732f8a081f019","features":{"coverage":[]},"yanked":false,"rust_version":"1.83.0"}
