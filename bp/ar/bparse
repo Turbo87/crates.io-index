@@ -12,3 +12,4 @@
 {"name":"bparse","vers":"0.12.0","deps":[],"cksum":"c61e98577748a0421ae26082ee594be9d24e3bc9c410a84ab66d21d8a7629f76","features":{},"yanked":false}
 {"name":"bparse","vers":"0.13.0","deps":[],"cksum":"17e6cb009ecb455eb61849dbf70637e7d4b11031fb206d792b808119e523508f","features":{},"yanked":false}
 {"name":"bparse","vers":"0.14.0","deps":[],"cksum":"3f7354c6468cd2303a38db1e10f54f377df4f2dc9df42a78eff19db0f0fc16ea","features":{},"yanked":false}
+{"name":"bparse","vers":"0.15.0","deps":[],"cksum":"68720b317c77a538917afabb42c6921001930dba8119b099bdae4ce150618350","features":{},"yanked":false}
