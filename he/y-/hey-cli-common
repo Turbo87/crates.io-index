@@ -1,1 +1,2 @@
 {"name":"hey-cli-common","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e4f58e24833748fc8bfc194e2769f701e84390ec937f89af88a5bf81138b0c1","features":{},"yanked":false}
+{"name":"hey-cli-common","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c246332872bcb4d99a48b63e902a45df01b1e771c2cb9e786387a669ea934b2e","features":{},"yanked":false}
