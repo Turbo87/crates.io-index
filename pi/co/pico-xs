@@ -1,2 +1,3 @@
 {"name":"pico-xs","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a0a1cce99228ec284c1180e49b32e56ead0fc15de79f0d46b225555b9958e416","features":{},"yanked":false}
 {"name":"pico-xs","vers":"0.2.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0b4707840cb7b6a6dae9d17e47f40ecc6410d473e75c07b6ea415f342b2a88ff","features":{},"yanked":false}
+{"name":"pico-xs","vers":"0.2.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a2a5edb4bf095c3de1e40ebfc97de28829ed0b159d5dd377312868f78c5799f3","features":{},"yanked":false}
