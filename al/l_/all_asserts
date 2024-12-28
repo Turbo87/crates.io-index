@@ -12,3 +12,4 @@
 {"name":"all_asserts","vers":"2.3.0","deps":[],"cksum":"4d9fe90d033dadfefa8011975ef73152e0425af1bab2b0edf0f004b2dd4ff633","features":{},"yanked":false}
 {"name":"all_asserts","vers":"2.3.1","deps":[],"cksum":"ca77caf0ca1057c274cda103cda1363d892b7cad5f2e646afde4df0697bea100","features":{},"yanked":false}
 {"name":"all_asserts","vers":"2.3.2","deps":[],"cksum":"714f6af048b504f57d548484fed55a7993b4cc9f474ddee4d26ba89d08d806c1","features":{},"yanked":false}
+{"name":"all_asserts","vers":"2.3.3","deps":[],"cksum":"514ce16346f9fc96702fd52f2ae7e383b185516ee6f556efd7c3176be8fe7bea","features":{},"yanked":false}
