@@ -4,3 +4,4 @@
 {"name":"vgzzq","vers":"0.20241028.3","deps":[],"cksum":"3aa902277e164eddfdcbd545a464c591622d6a52a9660722ccaa4c1c0179dcc6","features":{},"yanked":false,"rust_version":"1.59"}
 {"name":"vgzzq","vers":"0.20241028.4","deps":[],"cksum":"88b25013619d0b9f7a400589bd542d6bb441c7cda88fac6a582a859fdd054a64","features":{},"yanked":false,"rust_version":"1.59"}
 {"name":"vgzzq","vers":"0.20241028.5","deps":[],"cksum":"01e2b515a5528506cd0e04212f79f492e003004d0f52724a1c6180a0e2e906b4","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"0.20241029.0","deps":[],"cksum":"4865c8189e902f8e2cbba76d5db00e8dc2dbead94d0bfbcb3a7c3ca15c4f5d56","features":{},"yanked":false,"rust_version":"1.59"}
