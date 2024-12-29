@@ -6,3 +6,4 @@
 {"name":"color-output","vers":"4.1.2","deps":[],"cksum":"c8d7e6fcd4e535c57c663834c9fcb758c57303847f7fec4603b7a291d31e087d","features":{},"yanked":false}
 {"name":"color-output","vers":"5.0.0","deps":[],"cksum":"7d51773f9d6c4833b9db255c83e917bf4a78cdb48800f822441f5be603f7a763","features":{},"yanked":false}
 {"name":"color-output","vers":"5.0.1","deps":[],"cksum":"434da86d84a742a7334329332e38241a5178f47b52251c13feb084f88d3219bf","features":{},"yanked":false}
+{"name":"color-output","vers":"6.0.0","deps":[],"cksum":"b09c3991f9ba574c54edeb748307c67087abb153ba43998c7893f5428828f0c8","features":{},"yanked":false}
