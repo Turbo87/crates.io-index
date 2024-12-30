@@ -1,1 +1,2 @@
 {"name":"conspire","vers":"0.1.0","deps":[],"cksum":"f8e7b562ce617a56932c850837efab83b440c0e502d83b818e72c5309962bd36","features":{},"yanked":false}
+{"name":"conspire","vers":"0.5.1","deps":[],"cksum":"427c9f43ba0e3833ebcc747041dac9b290269b9c70a1c5a1e8e8065316edbaca","features":{"constitutive":["mechanics"],"fem":["constitutive"],"math":[],"mechanics":["math"]},"yanked":false}
