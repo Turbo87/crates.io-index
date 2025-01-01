@@ -41,3 +41,4 @@
 {"name":"fastbuf","vers":"0.41.0","deps":[],"cksum":"6c8f3caa4cc51b6406e0ba42039094fa146a590da44e1676ab436a5a71ff2894","features":{"const-trait":[],"default":["std","const-trait"],"impl_copy_for_buffer":[],"std":[]},"yanked":false}
 {"name":"fastbuf","vers":"0.42.0","deps":[],"cksum":"98536186f54c91e37ce6fb840b24f95a973ad26c3647472293ce1c15b2213cf2","features":{"const-trait":[],"default":["std"],"impl_copy_for_buffer":[],"std":[]},"yanked":false}
 {"name":"fastbuf","vers":"0.43.0","deps":[],"cksum":"8ceb32425a0f0a49f18880dd8643386d67abbcdc83fe993a6e491beb62f817ba","features":{"const-trait":[],"default":["std"],"impl_copy_for_buffer":[],"std":[]},"yanked":false}
+{"name":"fastbuf","vers":"0.44.0","deps":[],"cksum":"09074ec37d52617b3b0679cb60e5815f11e23afb0d224a13be660488caf7ec60","features":{"const-trait":[],"default":["std"],"impl_copy_for_buffer":[],"std":[]},"yanked":false}
