@@ -1,1 +1,2 @@
 {"name":"ruffer","vers":"1.0.0","deps":[],"cksum":"664f6b732f86a2fb7f2bd3a82edb4431713efba766fe1525c056c0f977442a2c","features":{"sync":[]},"yanked":false}
+{"name":"ruffer","vers":"1.0.1","deps":[],"cksum":"20b8cb2ef2d0f2b116e841ee54a0314a01032a7fd925d6e79fe0ffa8b227c01d","features":{"sync":[]},"yanked":false}
