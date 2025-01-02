@@ -9,3 +9,4 @@
 {"name":"machine-prime","vers":"1.4.1","deps":[],"cksum":"ffefdcf2965b328a9268b42cfb4d5272074af659779bbc831f39593b459208d3","features":{"default":["table"],"internal":[],"lucas":[],"ssmr":[],"table":[],"wide":[]},"yanked":false}
 {"name":"machine-prime","vers":"1.5.0","deps":[],"cksum":"ffe65c4413533b22f1cbbe02d5ce739996bc7a19f12e441846767aa4c18fd812","features":{"default":["table"],"internal":[],"lucas":[],"ssmr":[],"table":[],"wide":[]},"yanked":false}
 {"name":"machine-prime","vers":"1.5.1","deps":[],"cksum":"b66a0fa1bff0724c15528f46a9c37554c37b598e24976917f32b246c8f947a8b","features":{"default":["table"],"internal":[],"lucas":[],"ssmr":[],"table":[],"wide":[]},"yanked":true}
+{"name":"machine-prime","vers":"1.5.2","deps":[],"cksum":"f62ebabb004f1a0d8cb02e21ed2456828d4a65b44b0f0b7de29847cee5d7c3a3","features":{"default":["table"],"internal":[],"lucas":[],"ssmr":[],"table":[],"wide":[]},"yanked":false}
