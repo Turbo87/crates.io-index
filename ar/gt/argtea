@@ -6,3 +6,4 @@
 {"name":"argtea","vers":"1.0.2","deps":[],"cksum":"ad8475e13e4631ee2a41efdeb5b9de099bdfbad93eb4da31888f1a875ddbe7a7","features":{},"yanked":false}
 {"name":"argtea","vers":"1.0.3","deps":[],"cksum":"883a2004b94ebf69ac87806c99e6554749173913d2e67d7a975468cf2109407f","features":{},"yanked":false}
 {"name":"argtea","vers":"2.0.0","deps":[],"cksum":"2a981dbaee71b2237fa2cdea68ca3dfe40689c25548dfbbb8c8fb29a238076da","features":{},"yanked":false}
+{"name":"argtea","vers":"2.1.0","deps":[],"cksum":"a5defc09ee962ea8acffab00e795709fea9749bebca3718e5bf6a0412eba28f5","features":{},"yanked":false}
