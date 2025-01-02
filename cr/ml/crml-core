@@ -1,3 +1,4 @@
 {"name":"crml-core","vers":"0.1.0","deps":[],"cksum":"82a6b77de43bdf4b33272f2cf781894fe49da3ceee9e7c88622fefdc94b66d67","features":{},"yanked":false}
 {"name":"crml-core","vers":"0.1.1","deps":[],"cksum":"2a70b3df66c3ac49b7341ac97827f0727ba4543f128dee55dc4fd41d7ea21498","features":{},"yanked":false}
 {"name":"crml-core","vers":"0.1.2","deps":[],"cksum":"597759f76bc39fabcc8dd75c9008633a10a8bb892c1797b23535322cd91d759f","features":{},"yanked":false}
+{"name":"crml-core","vers":"0.1.3","deps":[],"cksum":"031dd015713481a56b0ec58f38c3d1ea3e5253ed68090b63d4d0efad3df43924","features":{},"yanked":false}
