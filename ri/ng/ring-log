@@ -1,3 +1,4 @@
 {"name":"ring-log","vers":"0.1.0","deps":[],"cksum":"513ebbccd57b379674ba06398bd7352f2948dbcac9caaa2d4d9c29c29a2ff4c1","features":{},"yanked":false}
 {"name":"ring-log","vers":"0.1.1","deps":[],"cksum":"5fb6e65155752d607c2dc72b8830b05f5cdeda585d83a1d50b4555b9e48e9a07","features":{},"yanked":false}
 {"name":"ring-log","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3efab1a4fb672f96d27111c8e2d892253cb4ad934a979647023a06728eb2b500","features":{},"yanked":false}
+{"name":"ring-log","vers":"0.2.1","deps":[{"name":"chrono","req":"^0.4.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"108cae24b280a5a490f3aa7fcfd40aee476132b960c6cec93a7145d216599a0e","features":{},"yanked":false}
