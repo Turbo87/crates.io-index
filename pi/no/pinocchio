@@ -5,3 +5,4 @@
 {"name":"pinocchio","vers":"0.4.0","deps":[],"cksum":"4205e6f0d6f9155ece9e9cff154192a8e36c2c987ce3143f50b5fbea46e7d2fa","features":{},"yanked":false}
 {"name":"pinocchio","vers":"0.5.0","deps":[],"cksum":"3be4a14e72d9098d35310de70667d5af8d7fc249ab8e26c54725f955c2dbd074","features":{},"yanked":false}
 {"name":"pinocchio","vers":"0.6.0","deps":[],"cksum":"c9f716de2190437efa787dd7414f4bcea88d22c2f81bbeecabb7db6d9cc326bd","features":{},"yanked":false}
+{"name":"pinocchio","vers":"0.7.0","deps":[],"cksum":"2999d06e0c7b659daa8d41d56d906c26531e551d22e49c044339024d3e195ebc","features":{"std":[]},"yanked":false}
