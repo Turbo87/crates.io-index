@@ -1,2 +1,3 @@
 {"name":"dyn-thrift","vers":"0.1.18","deps":[],"cksum":"09b8e0356f0bec900abb3df38254f9fc33033a431c76cef7e6b200394ec5c713","features":{},"yanked":false}
 {"name":"dyn-thrift","vers":"0.1.22","deps":[],"cksum":"977b5a099b1de90e24be1524c10db5b787ff715e1f0b41721bc1d5171c245eef","features":{},"yanked":false}
+{"name":"dyn-thrift","vers":"0.1.23","deps":[],"cksum":"0e94a7026060e8693b68d4db8cef5e06804119b17e63fbddd0b3586e59ef971f","features":{},"yanked":false}
