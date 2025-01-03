@@ -13,3 +13,4 @@
 {"name":"vgzzq","vers":"1.0.3","deps":[],"cksum":"975ba00fed2fceea80c2ca652dcecff13a69399d4d4aacabf762b01c09f6b8c9","features":{},"yanked":false,"rust_version":"1.59"}
 {"name":"vgzzq","vers":"1.0.4","deps":[],"cksum":"cc3ca1042080545f19bf6c60dab5b6dc8c5315e4868b4d09eb8291919f65231e","features":{},"yanked":false,"rust_version":"1.59"}
 {"name":"vgzzq","vers":"1.0.5","deps":[],"cksum":"2416e1594a946d3af88d762afe21a4f2cf24af5643c61a42c2467a3dba8c05e2","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"vgzzq","vers":"1.0.6","deps":[{"name":"cc","req":"^1.0.94","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"62bbb6d72c6aab445b123a78f0f1201fb839c4c03afd708355cca33502175bef","features":{},"yanked":false,"rust_version":"1.59"}
