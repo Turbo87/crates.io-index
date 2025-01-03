@@ -13,3 +13,4 @@
 {"name":"t-oc","vers":"5.0.3","deps":[],"cksum":"e6f8fedbae7e6dad31670c3d199106b2166de526a11376e22158d6ac1fb644dd","features":{"test-ext":[]},"yanked":false}
 {"name":"t-oc","vers":"6.0.0","deps":[],"cksum":"01c3b2e36b0e4eefd280f1409b4a0440959d4153b46d9507f1cfec65608c987f","features":{"test-ext":[]},"yanked":false}
 {"name":"t-oc","vers":"6.0.1","deps":[],"cksum":"efa44370d812337c10e9d0953c687af721b3d8e9395b71c72600e97a08c7768f","features":{"test-ext":[]},"yanked":false}
+{"name":"t-oc","vers":"6.0.2","deps":[],"cksum":"c1cf2ae58409da6b0c89e80d0aaead4ee27728abe26973075bab3f6450e7a13e","features":{"test-ext":[]},"yanked":false}
