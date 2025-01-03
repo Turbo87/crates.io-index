@@ -1,3 +1,4 @@
 {"name":"cached-pair","vers":"0.1.0","deps":[],"cksum":"52d445a0da03ff86999edfd385f7569db15153346f22049d1d11eee5d77d3ed5","features":{"default":[]},"yanked":false}
 {"name":"cached-pair","vers":"0.2.0","deps":[],"cksum":"fb9aede85b14dc8b8379909a82d8290b4698ca8bfeb6e0ab958504672ce679d5","features":{"default":[]},"yanked":false}
 {"name":"cached-pair","vers":"0.3.0","deps":[],"cksum":"1982e798b355a65d4b83c761125535759ba92aec6faeb37b4a7eac65027558bd","features":{"default":[]},"yanked":false}
+{"name":"cached-pair","vers":"0.4.0","deps":[],"cksum":"72a8c2c6795fb6d1e519aa5002525cbc5017024f8860b680cb03ea0cda8bf045","features":{"default":[]},"yanked":false}
