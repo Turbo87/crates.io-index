@@ -3,3 +3,4 @@
 {"name":"rat-cursor","vers":"0.25.1","deps":[],"cksum":"c44464d17bf92724ed4e4b8e021a2d62bbe057f1038f7df67605adb0786194f6","features":{},"yanked":false}
 {"name":"rat-cursor","vers":"1.0.0","deps":[],"cksum":"6a1a88663e97284596b6d6f9ae240339791ab8b88f9250e46ccddb2194cdada1","features":{},"yanked":false}
 {"name":"rat-cursor","vers":"1.1.0","deps":[],"cksum":"5c248443e31f0f1025061a52ecb185bdeaaf263061fa9d026ff0d0a95a540d31","features":{},"yanked":false}
+{"name":"rat-cursor","vers":"1.1.1","deps":[],"cksum":"dff15c3dd3eb76e1258d8396f8bf7efd01b71442111ffc4ccb3e1db877648974","features":{},"yanked":false}
