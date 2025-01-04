@@ -85,3 +85,4 @@
 {"name":"rand_simple","vers":"0.2.36","deps":[],"cksum":"c6f319ceae7703cfa0727d0cd2bde452984e88d4da23827ede035c3099d4a544","features":{},"yanked":false}
 {"name":"rand_simple","vers":"0.2.37","deps":[],"cksum":"1018616bdc1b3c417346ffaffb85f5e4dfbe257daf955d8c64042d1b0de59786","features":{},"yanked":false}
 {"name":"rand_simple","vers":"0.2.38","deps":[],"cksum":"985b834ee299955b49844644fdd977b10ec3c1e3c910f960c77680dfce6b88be","features":{},"yanked":false}
+{"name":"rand_simple","vers":"0.2.39","deps":[],"cksum":"e813f2d40c0b6c811903f72565c00173d6ecfc7bc1d2e0e8ab5eaea32f54a9df","features":{},"yanked":false}
