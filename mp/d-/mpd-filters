@@ -4,3 +4,4 @@
 {"name":"mpd-filters","vers":"0.3.0","deps":[],"cksum":"5d203b95264badf24c5f28129fc82b90e549678bc01a18537c842207a8c599a5","features":{},"yanked":false}
 {"name":"mpd-filters","vers":"0.4.0","deps":[],"cksum":"ec57b3ceb6afade871516fe09cf239d59fd1b6654d1aef50712e473064386242","features":{},"yanked":false}
 {"name":"mpd-filters","vers":"0.4.1","deps":[],"cksum":"029e541ef2a61b89028cde291b2497891cf093f97979293ffb16fb6b8814f6d8","features":{},"yanked":false}
+{"name":"mpd-filters","vers":"0.4.2","deps":[],"cksum":"0bc6ed3f4535457d087b64d97815b5d947499a5e4767caf7d2c53b77a42512c0","features":{},"yanked":false}
