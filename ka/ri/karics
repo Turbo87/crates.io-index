@@ -1,4 +1,4 @@
-{"name":"karics","vers":"0.1.0","deps":[],"cksum":"082da1a68a33400455b53a545da00119bcad45651270b536435344fc78bdf353","features":{},"yanked":false}
+{"name":"karics","vers":"0.1.0","deps":[],"cksum":"082da1a68a33400455b53a545da00119bcad45651270b536435344fc78bdf353","features":{},"yanked":true}
 {"name":"karics","vers":"0.1.1","deps":[],"cksum":"b190f22386be489f6c4f2333d610ebb66884cc2bbaa0e79bd3b80b940502b766","features":{},"yanked":true}
 {"name":"karics","vers":"0.1.1-alpha","deps":[],"cksum":"2882d6e0dcf0d8718d615166809d5022db27153d30f76778a2b4a51da9aa907e","features":{},"yanked":true}
 {"name":"karics","vers":"0.1.0-alpha1","deps":[],"cksum":"0456c45dce643ef126f4f3c559e6fcc951ba6ec77cd85bb21cd7696b1164467f","features":{},"yanked":true}
