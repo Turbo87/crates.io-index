@@ -1,1 +1,2 @@
 {"name":"miyabi_scheduler","vers":"0.1.0","deps":[{"name":"flume","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b72484ab9ebaf0c767cb92296f35f689d76337fb0f4e02243b0216e9b9a8577","features":{},"yanked":false}
+{"name":"miyabi_scheduler","vers":"0.1.1","deps":[{"name":"flume","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76bc0c90f9a9e56598c9ac01756b2183cc9234738344a765c6f4a2f6f4834752","features":{},"yanked":false}
