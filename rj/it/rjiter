@@ -1,1 +1,2 @@
 {"name":"rjiter","vers":"1.0.0","deps":[{"name":"jiter","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43091091c8f3aa591dabb5b98d4a217225194c0fa19cf0df0c7e0444ebbd4737","features":{},"yanked":false}
+{"name":"rjiter","vers":"1.0.1","deps":[{"name":"jiter","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c5b512ecf954c02c6abf58d01fb9109337c9d3baa3c193f6db48584983a6c10","features":{},"yanked":false}
