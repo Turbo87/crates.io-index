@@ -3,3 +3,4 @@
 {"name":"rten-simd","vers":"0.14.0","deps":[],"cksum":"2e5421816b02c13e647bc38aca1cb1046c1ab12b82ed20db3a6c051b17e8543a","features":{"avx512":[]},"yanked":false}
 {"name":"rten-simd","vers":"0.14.1","deps":[],"cksum":"e491fbae05cf42d15fa282fe4a9ef2e32a8d088b267764412e71b39015bdcd50","features":{"avx512":[]},"yanked":false}
 {"name":"rten-simd","vers":"0.15.0","deps":[],"cksum":"110b90ce15adb254df4887e113ec9114722b9d948f3fb0aeb3722dc141bad085","features":{"avx512":[]},"yanked":false}
+{"name":"rten-simd","vers":"0.15.1","deps":[],"cksum":"120666e2732c9a5f054c0e99561c537619b7973344a6d3389411faa6abe2b466","features":{"avx512":[]},"yanked":false}
