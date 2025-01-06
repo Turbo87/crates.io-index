@@ -1,2 +1,0 @@
-{"name":"very-simple-aes","vers":"1.0.0","deps":[{"name":"rust-crypto","req":"^0.2.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01267dbf69c48f7e19be806e77146d0e4ab233caf7675299eb5e1208283a5680","features":{},"yanked":false}
-{"name":"very-simple-aes","vers":"1.0.1","deps":[{"name":"rust-crypto","req":"^0.2.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0aad723b2b2bf6b107dd9b860d59247dd1cf1b3154ff261ec1d756ed60b7ce3","features":{},"yanked":false}
