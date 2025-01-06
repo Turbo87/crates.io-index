@@ -1,1 +1,2 @@
 {"name":"itm-parser","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d32e22ed6270448629379912a846d6bb5278749caa5b740bd7594c0d39a421f","features":{},"yanked":false}
+{"name":"itm-parser","vers":"0.1.1","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40c0fac5b9267e8dc810b320d1f2e590e375558faadd49869cf17a352cc0b3d7","features":{},"yanked":false}
