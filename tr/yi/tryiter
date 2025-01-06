@@ -3,3 +3,4 @@
 {"name":"tryiter","vers":"0.2.0","deps":[],"cksum":"6b9ca4fb10cbbc8c5f322089de465a8dd74e95ce0c3cd4d15da41c0bd15f014c","features":{},"yanked":false}
 {"name":"tryiter","vers":"0.3.0","deps":[],"cksum":"9d4a6ab7460e93a1c85c6d3efdb9af371689349b3e6d1b53ed1bb510791fb509","features":{},"yanked":false}
 {"name":"tryiter","vers":"0.4.0","deps":[],"cksum":"f4a8f8d70b9d825b9dc4d91d51ff16a7e8a0a53bff271878a6aec2b969c9793d","features":{},"yanked":false}
+{"name":"tryiter","vers":"0.5.0","deps":[],"cksum":"78ebd7c941bad2a384d12ffb3370fd5cc8a4e5d0e9c9667dadb8a4e0fa39c413","features":{},"yanked":false}
