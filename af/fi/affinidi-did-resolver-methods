@@ -9,3 +9,4 @@
 {"name":"affinidi-did-resolver-methods","vers":"0.2.1","deps":[],"cksum":"70bbd9376673449e822402d0d4c69a7950cd8bddc254db36c596e47d8dd8c961","features":{},"yanked":false}
 {"name":"affinidi-did-resolver-methods","vers":"0.2.2","deps":[],"cksum":"df57c33a50ad8d816763daf941d7ff44bcd9ba6ea10273aacf7d6b9df85cb490","features":{},"yanked":false}
 {"name":"affinidi-did-resolver-methods","vers":"0.2.3","deps":[],"cksum":"b5d1f15c6c8ca60c61bdf96ed85162311601e2e1cb703b2477e934035ce498d6","features":{},"yanked":false}
+{"name":"affinidi-did-resolver-methods","vers":"0.2.4","deps":[],"cksum":"f6b88c37ef22177ffe13bbaaedf8cf80a0d48acfb3500fc45d17db2f21d7676c","features":{},"yanked":false}
