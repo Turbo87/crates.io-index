@@ -5,3 +5,4 @@
 {"name":"cargo-esp-new","vers":"1.0.4","deps":[],"cksum":"05fbcc2b2bdebdae1cc3fe979551ab3e9020da00cb7b801ea895c036f85405be","features":{},"yanked":false}
 {"name":"cargo-esp-new","vers":"1.0.5","deps":[],"cksum":"486f114e5b5bda3adbf0e4766504eb4d27b967f78e124f1faa5a2151074aa88b","features":{},"yanked":false}
 {"name":"cargo-esp-new","vers":"1.0.6","deps":[],"cksum":"a6ef1c98ca006de357298ef1d05750f49a446b07c4460139947aa09291ba61e8","features":{},"yanked":false}
+{"name":"cargo-esp-new","vers":"2.0.0","deps":[],"cksum":"3b384b772b2ca2b4c6ca22edc1274442fee324a34dce27db7263c26bd2f8c38f","features":{},"yanked":false}
