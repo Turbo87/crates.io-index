@@ -3,3 +3,4 @@
 {"name":"ra_ap_edition","vers":"0.0.254","deps":[],"cksum":"b926b2a582e1c67b8380f667f8a3d087576b87a16bbb3c8adf62a0f4cc0bebb4","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"ra_ap_edition","vers":"0.0.255","deps":[],"cksum":"a505fdcce21fe55484ee147157f3af81746533c44984dd330bfc0ab99ca06c8d","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"ra_ap_edition","vers":"0.0.256","deps":[],"cksum":"8ec96d33a7c8d28658da8f347d4141d8edb4a966f5cbe4216ae590682d9e80f7","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"ra_ap_edition","vers":"0.0.257","deps":[],"cksum":"287c134d67e3bfb606211b039acc711c3dfd74b61dc570beb18556901d2a4cde","features":{},"yanked":false,"rust_version":"1.82"}
