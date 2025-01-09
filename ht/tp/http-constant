@@ -26,3 +26,4 @@
 {"name":"http-constant","vers":"1.21.0","deps":[{"name":"brotli","req":"^7.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"flate2","req":"^1.0.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1b047e43433ee2293d69d10dae9dd8eebb492768835611d886ea570d1a2dd9a","features":{},"yanked":false}
 {"name":"http-constant","vers":"1.22.0","deps":[],"cksum":"59a6b4e686a83a70ccd638203da8559222576e4ea425e511d78d8026fac9f82e","features":{},"yanked":false}
 {"name":"http-constant","vers":"1.23.0","deps":[],"cksum":"e41a9d4d7d14da8c14d79141e57d5fcfae4814300e8cfbaa7b306cea23839095","features":{},"yanked":false}
+{"name":"http-constant","vers":"1.24.0","deps":[],"cksum":"e7132ababfb859049e8b4eea9eed81eeb810261b3bf0b59e3ee1b851e4953573","features":{},"yanked":false}
