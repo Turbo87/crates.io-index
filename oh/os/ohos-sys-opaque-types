@@ -1,2 +1,3 @@
 {"name":"ohos-sys-opaque-types","vers":"0.1.0","deps":[],"cksum":"d7668bbc0b66a9ce1b5dc297aa04675eabea744cf018b6185b2a93aecd759b7e","features":{},"yanked":false}
 {"name":"ohos-sys-opaque-types","vers":"0.1.1","deps":[],"cksum":"1b1e046dd31461e038f78ec7e444197ba9202615c4983181aaeeb81c74641acb","features":{},"yanked":false}
+{"name":"ohos-sys-opaque-types","vers":"0.1.2","deps":[],"cksum":"05a053ef8e71e3dbcf314c64cc88006d62b87e46f5264f7a861eee90c16b0ad8","features":{},"yanked":false}
