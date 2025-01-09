@@ -27,3 +27,4 @@
 {"name":"http-constant","vers":"1.22.0","deps":[],"cksum":"59a6b4e686a83a70ccd638203da8559222576e4ea425e511d78d8026fac9f82e","features":{},"yanked":false}
 {"name":"http-constant","vers":"1.23.0","deps":[],"cksum":"e41a9d4d7d14da8c14d79141e57d5fcfae4814300e8cfbaa7b306cea23839095","features":{},"yanked":false}
 {"name":"http-constant","vers":"1.24.0","deps":[],"cksum":"e7132ababfb859049e8b4eea9eed81eeb810261b3bf0b59e3ee1b851e4953573","features":{},"yanked":false}
+{"name":"http-constant","vers":"1.25.0","deps":[],"cksum":"eb37523f40fe53d5ae3171dc23673f86e51b8aa0384f25ee50aad427b52eb637","features":{},"yanked":false}
