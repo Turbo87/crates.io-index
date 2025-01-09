@@ -1,2 +1,3 @@
 {"name":"metricus","vers":"0.0.1","deps":[],"cksum":"0dbf4117bbbbf6490dfa315f75bf293cfc24bfb8fa928e03df2cae70f58e5f87","features":{},"yanked":false,"rust_version":"1.83.0"}
 {"name":"metricus","vers":"0.0.3","deps":[],"cksum":"21077682ff9fdf7fc70b21ea576579e50084fd3d4daf0c6423ef5d7df1fe7b6b","features":{},"yanked":false,"rust_version":"1.83.0"}
+{"name":"metricus","vers":"0.0.4","deps":[],"cksum":"8a4f140abf09c54143a299e8f84983d0d5c2e04bb772ec309c7ec42088f7d7bb","features":{},"yanked":false,"rust_version":"1.83.0"}
