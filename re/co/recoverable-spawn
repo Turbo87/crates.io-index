@@ -3,3 +3,4 @@
 {"name":"recoverable-spawn","vers":"0.0.3","deps":[],"cksum":"dfcefa9a8382fbd8fad8ddde71131306bdab35b48bd0feb0f14d5547ee847d07","features":{},"yanked":false}
 {"name":"recoverable-spawn","vers":"0.0.4","deps":[],"cksum":"9bc934310b7e2dcbb600c69dcd12756a8581f813e7c37f32bf14e4d5634b3860","features":{},"yanked":false}
 {"name":"recoverable-spawn","vers":"0.1.0","deps":[],"cksum":"50aff2a0f20eb2080c6067db37d40d8c978efc2875db4dec9353a1dbcb42a02d","features":{},"yanked":false}
+{"name":"recoverable-spawn","vers":"0.2.0","deps":[],"cksum":"2eab61c6cdded37bcd943373240bb288ea87917af577242bb00bcdae7791fb18","features":{},"yanked":false}
