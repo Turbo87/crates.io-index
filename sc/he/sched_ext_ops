@@ -1,0 +1,1 @@
+{"name":"sched_ext_ops","vers":"0.0.1","deps":[{"name":"aya-ebpf","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0863264949e4847c2403e5fcf7bf863a87026d790e29f58872f5b72a785c3fa1","features":{},"yanked":false}
