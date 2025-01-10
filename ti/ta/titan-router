@@ -5,3 +5,4 @@
 {"name":"titan-router","vers":"0.1.4","deps":[],"cksum":"70bf5e0f5dc098bcc6499111c359a87219bd94781ac398bcbd7a01f8d72d2e37","features":{},"yanked":false}
 {"name":"titan-router","vers":"0.1.5","deps":[],"cksum":"9170ddea1d158e94378ee908abcf9e6caddd0162fd9386a42a86af91fb3e8664","features":{},"yanked":false}
 {"name":"titan-router","vers":"0.1.6","deps":[],"cksum":"8e838252effffe07017a5c819d647816a3d7700134f77c2cfab5c394de71b447","features":{},"yanked":false}
+{"name":"titan-router","vers":"0.1.8","deps":[],"cksum":"2d5881659217b1200ebc9a422cd48244e5b3c191d54c87d99f95fd12761bc8ab","features":{},"yanked":false}
