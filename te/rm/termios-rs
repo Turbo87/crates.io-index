@@ -1,1 +1,0 @@
-{"name":"termios-rs","vers":"0.3.4","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f0dd895f7bf1eafab3b45a7e88425e815400932e9ef66ca5731be8fc934e82e","features":{},"yanked":false}
