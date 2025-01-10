@@ -3,3 +3,4 @@
 {"name":"multidict","vers":"0.1.0","deps":[],"cksum":"bf9092bc2b2249f5f40aaae8d3e2d00243301d86a1f19858c5f357cb5b1c2347","features":{},"yanked":true,"rust_version":"1.83"}
 {"name":"multidict","vers":"0.1.1","deps":[],"cksum":"a384415eb66c7eff2b478fbd241c6912fd82f6c1ade198a80bece977f85bce00","features":{},"yanked":false,"rust_version":"1.83"}
 {"name":"multidict","vers":"0.1.2","deps":[],"cksum":"172ab58680a26ad55dc79a628782b63143d9a183f5148f3bf2e628b9e445106c","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"multidict","vers":"0.2.0","deps":[],"cksum":"0fe731ea7196d007eab382fada26dfc48ab2ae9d47c3781b56d329faee773333","features":{},"yanked":false,"rust_version":"1.83"}
