@@ -1,2 +1,3 @@
 {"name":"unzip_iter","vers":"0.1.0","deps":[],"cksum":"cb8ed603bf6576cba9aee4fa8484aa8e3c15dda36413df0270e5484010e11be9","features":{},"yanked":false}
 {"name":"unzip_iter","vers":"0.2.0","deps":[],"cksum":"70089606acd167c7fc746a07d28ced5c779b9905821c5ca0bbf7650e13eb758c","features":{},"yanked":false}
+{"name":"unzip_iter","vers":"0.3.0","deps":[],"cksum":"c3da4328f08666bc0034ba1ef1b7c1187cd521b720c14b14c798bfa4b5ee99cb","features":{},"yanked":false}
