@@ -27,3 +27,4 @@
 {"name":"uast","vers":"4.0.4","deps":[],"cksum":"53b96abf5a0cafa4040b08e093a6db243badc2b68a6ca3c5467b58aae9040989","features":{},"yanked":false,"rust_version":"1.74.0"}
 {"name":"uast","vers":"4.0.5","deps":[],"cksum":"18cc938bcc8304563ace8ac82a0b6108b3679ff8d5e1c3c7e8c92b3c7aac0a89","features":{},"yanked":false,"rust_version":"1.74.0"}
 {"name":"uast","vers":"4.0.6","deps":[],"cksum":"27ffdaeb7e5a87e4c199c4ef897f95e7b5effd9716f73dd51a020c67b4d00a43","features":{},"yanked":false,"rust_version":"1.74.0"}
+{"name":"uast","vers":"4.1.0","deps":[],"cksum":"83cb5c6c5eae91dc44b832b93686aea8c97c74137f5da2113306a3c5877f353e","features":{},"yanked":false,"rust_version":"1.84.0"}
