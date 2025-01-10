@@ -1,2 +1,3 @@
 {"name":"multidict","vers":"0.0.1","deps":[],"cksum":"c845b7e81426801f59cd395c50e3229d048d3f4b64dc1709988f033255dfedfb","features":{},"yanked":false,"rust_version":"1.83"}
 {"name":"multidict","vers":"0.0.2","deps":[],"cksum":"c865d2540f9b672812f670e66b438c098420ba743c8409674dad1854513aeb02","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"multidict","vers":"0.1.0","deps":[],"cksum":"bf9092bc2b2249f5f40aaae8d3e2d00243301d86a1f19858c5f357cb5b1c2347","features":{},"yanked":false,"rust_version":"1.83"}
