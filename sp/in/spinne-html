@@ -1,1 +1,2 @@
 {"name":"spinne-html","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbb2391f44bfe1319aeca725682be0be749774a484330a33948843059e2054ec","features":{},"yanked":false}
+{"name":"spinne-html","vers":"0.2.3","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52f46cb35af74d543fcaf32ee2d197eb3daa221292407286a4a70759a171e19f","features":{},"yanked":false}
