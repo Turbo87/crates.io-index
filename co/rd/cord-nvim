@@ -11,3 +11,4 @@
 {"name":"cord-nvim","vers":"2.0.0-beta.11","deps":[],"cksum":"a51922848b9ccc0f0758aa5cbb9f83b594234e0947245bc1992f287ec53a3819","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"cord-nvim","vers":"2.0.0-beta.12","deps":[],"cksum":"c9a97225db880d22b26615403ebd534b72ca4d94b4234769fe26c7210948143f","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"cord-nvim","vers":"2.0.0-beta.13","deps":[],"cksum":"20c3d882729ec807b927c0824ac4fdab409413bd2bd9ac8cfd4b20c718c8655d","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"cord-nvim","vers":"2.0.0-beta.14","deps":[],"cksum":"b7633ee6e481da7ecb47e9f24847b2287254d25bd73d3c3e6d127a257296a3e8","features":{},"yanked":false,"rust_version":"1.85"}
