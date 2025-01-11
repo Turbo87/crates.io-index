@@ -3,3 +3,4 @@
 {"name":"math-comb","vers":"0.1.2","deps":[],"cksum":"b03bf7def6e741e0c32498c00c22be35ea37b0e0b56cbd37a25564f650e43aec","features":{},"yanked":false}
 {"name":"math-comb","vers":"0.2.0","deps":[],"cksum":"687b348a0cb65200255eca1893abeb42b78e49a5373509550d7b987901fccf17","features":{},"yanked":true}
 {"name":"math-comb","vers":"0.2.1","deps":[],"cksum":"bb8af2c2f3f3706f3ae65faaf7497142cbc21bfc0feb3fc796d25c92267c4972","features":{},"yanked":false}
+{"name":"math-comb","vers":"0.2.2","deps":[],"cksum":"69cb33dacea57a291e8225bde82630d7325c9bf5d8234418a3983826cf49dff7","features":{},"yanked":false}
