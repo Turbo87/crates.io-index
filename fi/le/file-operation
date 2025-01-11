@@ -1,3 +1,4 @@
 {"name":"file-operation","vers":"0.0.1","deps":[],"cksum":"12a0496c4abee133367dcd7e42dcc4ec341a45b7ea4f4f85fc3e830b7748a7eb","features":{},"yanked":false}
 {"name":"file-operation","vers":"0.0.2","deps":[],"cksum":"e7f04e69520e4fb15f9804aa78167ebe8f68acb6286be481b46ff503370a42a7","features":{},"yanked":false}
 {"name":"file-operation","vers":"0.0.3","deps":[],"cksum":"868c355396ddbf2060bdaffa23d556fd67e31fcbd67e065e77b7d47e72a7982d","features":{},"yanked":false}
+{"name":"file-operation","vers":"0.1.0","deps":[],"cksum":"c04aea35dba549d192830d9b0f752b6bddc70289e7577f4d30a181ba53cb3636","features":{},"yanked":false}
