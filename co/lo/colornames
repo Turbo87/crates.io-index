@@ -1,2 +1,3 @@
 {"name":"colornames","vers":"0.0.1","deps":[],"cksum":"d0f4c8a20c08d7f98659ec7ed348032d1182127041fb36c85e5cc8b715fc233c","features":{},"yanked":false}
 {"name":"colornames","vers":"0.0.2","deps":[],"cksum":"36f9ace6a5f03119baeee6dc6c44f628b38733e06145bb3f7b504607e45764ed","features":{},"yanked":false}
+{"name":"colornames","vers":"0.0.3","deps":[{"name":"once_cell","req":"^1.20.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"596ddd6be0d05c325c2ae042ca588cf9aeb65b5b333ff6b2649caa39a759e3aa","features":{},"yanked":false}
