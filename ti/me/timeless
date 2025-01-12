@@ -3,3 +3,4 @@
 {"name":"timeless","vers":"0.0.2-alpha","deps":[],"cksum":"e6c980316ad544bcbbfbda76bec37e0b76eef18bacce109a62f3a8917a009b53","features":{},"yanked":false}
 {"name":"timeless","vers":"0.0.3-alpha","deps":[],"cksum":"15f9ea6abb6b894eeda3e6facac154e700640020f41ee4b1e1c7d035ffd879d8","features":{},"yanked":false}
 {"name":"timeless","vers":"0.0.4-alpha","deps":[],"cksum":"33b130ade301cf60d74ced7a5e36cc5c31212b8a191409b269bf3581bb5e6ee3","features":{},"yanked":false}
+{"name":"timeless","vers":"0.0.5-alpha","deps":[],"cksum":"84f01add8864f8d4148dc2a67db400f7743b2ecac3a3f27e124621d1bfdfa3d7","features":{},"yanked":false}
