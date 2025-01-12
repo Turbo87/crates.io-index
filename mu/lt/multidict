@@ -6,3 +6,4 @@
 {"name":"multidict","vers":"0.2.0","deps":[],"cksum":"0fe731ea7196d007eab382fada26dfc48ab2ae9d47c3781b56d329faee773333","features":{},"yanked":false,"rust_version":"1.83"}
 {"name":"multidict","vers":"0.2.1","deps":[],"cksum":"caf5813f89f96b12095891d0f563377c48a08cb168d676a4794b81858b2b1b89","features":{},"yanked":true,"rust_version":"1.84"}
 {"name":"multidict","vers":"0.2.2","deps":[],"cksum":"a1ba4dc04e91f99f74222cc87a4962070c1da19384f4d60f65c05256505f0894","features":{},"yanked":false,"rust_version":"1.83"}
+{"name":"multidict","vers":"0.3.0","deps":[],"cksum":"d033b0505434f3f22fc831b2081aa2242e3e17a9643674a438ce7a77c1039839","features":{},"yanked":false,"rust_version":"1.83"}
