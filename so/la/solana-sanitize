@@ -7,3 +7,4 @@
 {"name":"solana-sanitize","vers":"2.1.5","deps":[],"cksum":"4487b5a078a0132533456ef14ca51a6ba2ce92b0d20f384ac518d0ff565a1235","features":{},"yanked":false}
 {"name":"solana-sanitize","vers":"2.1.6","deps":[],"cksum":"d05ecd7ec442abf0561cbf06984484d6368e71a4882213bfa68b658b0f8d6a0e","features":{},"yanked":false}
 {"name":"solana-sanitize","vers":"2.1.7","deps":[],"cksum":"3b8c536460c84ec7cbcce45d8a68ab1c12c99933cfeb0cb332567e67a27eea2f","features":{},"yanked":false}
+{"name":"solana-sanitize","vers":"2.1.8","deps":[],"cksum":"58f71b885b953e9157b66eaba9a34507f2f840712ef54f483725ba510ee1bd89","features":{},"yanked":false}
