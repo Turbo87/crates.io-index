@@ -1,2 +1,3 @@
 {"name":"valust-utils","vers":"0.1.0","deps":[],"cksum":"b61d0995ce64e346f912b335562a58d367ff47d879f48f72fbb601ae86a7aca7","features":{},"yanked":false}
 {"name":"valust-utils","vers":"0.2.0","deps":[],"cksum":"b4cfa8186050b7032965ba21b025ed55f77445692d89cd7fc9706dee78776966","features":{},"yanked":false}
+{"name":"valust-utils","vers":"0.3.0","deps":[{"name":"convert_case","req":"^0.7.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a05e342d8004bf9b2844229eb02c26e3d694fdfd0b44dfd1e189e0997062b43","features":{"casing":["convert_case"],"default":["casing"]},"yanked":false}
