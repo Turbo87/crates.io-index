@@ -2,3 +2,4 @@
 {"name":"shadermath","vers":"0.2.0","deps":[],"cksum":"2db66b79434dd7dd24d7b7a4e7d77bbbd5620416e7d16644dac33768be803971","features":{},"yanked":false}
 {"name":"shadermath","vers":"0.2.1","deps":[],"cksum":"24b1c05499437d7d5c877839b53f86a093bc140954e3914297204b367a376a2c","features":{},"yanked":false}
 {"name":"shadermath","vers":"0.3.0","deps":[],"cksum":"d4bed4eeff6cdab3f9618c10df84963b89266d6f4324b67b7610e7e47212bd8e","features":{},"yanked":false}
+{"name":"shadermath","vers":"0.4.0","deps":[],"cksum":"7b13b4b09a15dddd752860dd6742f95c27351180cd7c26d6d3097735456d795c","features":{},"yanked":false}
