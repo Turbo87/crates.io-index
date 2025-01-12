@@ -7,3 +7,4 @@
 {"name":"solana-program-option","vers":"2.1.5","deps":[],"cksum":"645cd0a0ffff04b6fe0e69b20229137a6241d3cdac5f8bd35807b29b9bec7f3b","features":{},"yanked":false}
 {"name":"solana-program-option","vers":"2.1.6","deps":[],"cksum":"6c2334c5f9adcc25c6390fbf87ac127adbfbd8943465726e5f389159677ceba2","features":{},"yanked":false}
 {"name":"solana-program-option","vers":"2.1.7","deps":[],"cksum":"506908720b9b1660f2087d9c6f45ba208fa67a0f34658804517324ef65fd432b","features":{},"yanked":false}
+{"name":"solana-program-option","vers":"2.1.8","deps":[],"cksum":"e99a3e016363a95cdbe23aaa2a68578ffa2ce8e37c4a642962201af6376ffc37","features":{},"yanked":false}
