@@ -1,1 +1,2 @@
 {"name":"exemplars","vers":"0.0.0","deps":[],"cksum":"56eaf3b3611b099ef761d59281c03da492c64f5576eac6cb1ec16ea175162009","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"exemplars","vers":"0.0.1","deps":[{"name":"uuid","req":"^1.11.1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3148cecb32c6ec8ab5dbcbb85ae8401640e640e214dd2d8192c1d842a15545ea","features":{"alloc":[],"default":["std"],"std":["alloc"]},"features2":{"uuid":["dep:uuid"]},"yanked":false,"v":2}
