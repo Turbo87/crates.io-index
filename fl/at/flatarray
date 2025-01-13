@@ -1,2 +1,3 @@
 {"name":"flatarray","vers":"0.1.0","deps":[],"cksum":"330a3ea91aa101067ad4d721233ded31239e2b777eee7aa81fb9d49563fcb03a","features":{},"yanked":false,"rust_version":"1.78.0"}
 {"name":"flatarray","vers":"0.2.0","deps":[],"cksum":"bca4b0d1037c86ecc4c4f5619020712a2134e382a2996bdf1542c3074ed01d68","features":{},"yanked":false,"rust_version":"1.78.0"}
+{"name":"flatarray","vers":"0.3.0","deps":[],"cksum":"db6e1186bc3511192b4cc35fbc0613bbf1eeec23425b108605e1787421d673ad","features":{},"yanked":false,"rust_version":"1.78.0"}
