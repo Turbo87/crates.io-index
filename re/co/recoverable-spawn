@@ -13,3 +13,4 @@
 {"name":"recoverable-spawn","vers":"1.0.0","deps":[],"cksum":"c6ab370a4810c8dcd32c712ac15f5e3a243870d5614c259719a3ae2bff9ce4ac","features":{},"yanked":false}
 {"name":"recoverable-spawn","vers":"2.0.0","deps":[],"cksum":"17df7f52ecdb5131f4704f0cb16eeab135decd34d7f7fe17e65cbc43ba92c340","features":{},"yanked":false}
 {"name":"recoverable-spawn","vers":"3.0.0","deps":[{"name":"tokio","req":"^1.43.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"147f1a70c069b2fa85dafd00456c5302bb97220a0f2778671e7d37bbb359c237","features":{},"yanked":false}
+{"name":"recoverable-spawn","vers":"3.1.0","deps":[{"name":"tokio","req":"^1.43.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fda99a1cff6480bab3cdef549293c1203aef202b857b50ee32142c3845f4d9fc","features":{},"yanked":false}
