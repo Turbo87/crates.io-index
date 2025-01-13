@@ -4,3 +4,4 @@
 {"name":"file-operation","vers":"0.1.0","deps":[],"cksum":"c04aea35dba549d192830d9b0f752b6bddc70289e7577f4d30a181ba53cb3636","features":{},"yanked":false}
 {"name":"file-operation","vers":"0.1.1","deps":[],"cksum":"1caeb7f36f832662881e6b3bf785a53621f7043c401796ec11a808ead0b5eb17","features":{},"yanked":false}
 {"name":"file-operation","vers":"0.2.0","deps":[{"name":"tokio","req":"^1.43.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5e58a74fb98bc29f60e89cd5d79674403045e625fa32f1c8d3d1e12c5b22ea1","features":{},"yanked":false}
+{"name":"file-operation","vers":"0.3.0","deps":[{"name":"tokio","req":"^1.43.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce83a53c687c548132d8671e8d394dd85c1b5d155958f75fb2c82d9947ab3275","features":{},"yanked":false}
