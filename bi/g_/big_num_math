@@ -22,3 +22,4 @@
 {"name":"big_num_math","vers":"3.1.3","deps":[],"cksum":"569645df73378315cb69cba236881649c4372c4cf0d6b7122cb76e87ffd04f30","features":{"ext-tests":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":false}
 {"name":"big_num_math","vers":"3.1.4","deps":[],"cksum":"2fbc689e6a4c0072c9dbb20c08fdaf1e26ae67948512a109dabe2523a4f3f4e4","features":{"ext-tests":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":false}
 {"name":"big_num_math","vers":"3.1.5","deps":[],"cksum":"c149ee0ab842997d32758d1e0b7ca79584f41a2f83eca5d0a428db009b20d451","features":{"ext-tests":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":false}
+{"name":"big_num_math","vers":"3.1.6","deps":[],"cksum":"01dfccf61722cdcfc63d8c80d64714dc0116998c60b55112ee576f4428b7e32d","features":{"ext-tests":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":false}
