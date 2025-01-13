@@ -3,3 +3,4 @@
 {"name":"file-operation","vers":"0.0.3","deps":[],"cksum":"868c355396ddbf2060bdaffa23d556fd67e31fcbd67e065e77b7d47e72a7982d","features":{},"yanked":false}
 {"name":"file-operation","vers":"0.1.0","deps":[],"cksum":"c04aea35dba549d192830d9b0f752b6bddc70289e7577f4d30a181ba53cb3636","features":{},"yanked":false}
 {"name":"file-operation","vers":"0.1.1","deps":[],"cksum":"1caeb7f36f832662881e6b3bf785a53621f7043c401796ec11a808ead0b5eb17","features":{},"yanked":false}
+{"name":"file-operation","vers":"0.2.0","deps":[{"name":"tokio","req":"^1.43.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5e58a74fb98bc29f60e89cd5d79674403045e625fa32f1c8d3d1e12c5b22ea1","features":{},"yanked":false}
