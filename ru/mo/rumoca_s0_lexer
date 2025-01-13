@@ -1,1 +1,0 @@
-{"name":"rumoca_s0_lexer","vers":"0.4.5","deps":[{"name":"logos","req":"^0.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c107c3edd1d807ae7128747445e6f77197133ba9c58439ba3e2eff44ffec67b","features":{},"yanked":false}
