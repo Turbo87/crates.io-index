@@ -3,3 +3,4 @@
 {"name":"unzip_iter","vers":"0.3.0","deps":[],"cksum":"c3da4328f08666bc0034ba1ef1b7c1187cd521b720c14b14c798bfa4b5ee99cb","features":{},"yanked":false}
 {"name":"unzip_iter","vers":"0.3.1","deps":[],"cksum":"0ec65f09651b8b24286bfbc9fd82021f97db063aaa7891bdc66c971e70fe361e","features":{},"yanked":false}
 {"name":"unzip_iter","vers":"0.3.2","deps":[],"cksum":"c357cfd3775c759f2d37d152a795ea58a9d484a4d811277b233eadfccbcc5228","features":{},"yanked":false}
+{"name":"unzip_iter","vers":"0.3.3","deps":[],"cksum":"b6401b06cc89a7cff41e64015c0c31cbef78f910c44694eebcb19b8a8712ba1c","features":{},"yanked":false}
