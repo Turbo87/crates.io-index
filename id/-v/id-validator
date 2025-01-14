@@ -1,1 +1,2 @@
 {"name":"id-validator","vers":"0.1.0","deps":[],"cksum":"73598f7f01dbbfd253019408b4543c63af1a0894f37595979a1f1ed6f6cfe528","features":{},"yanked":false}
+{"name":"id-validator","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b7861a5a4137fceb60c469e126b08d1575514d11ddd38c6a22135d557ef0ba6","features":{},"yanked":false}
