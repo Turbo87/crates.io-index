@@ -1,2 +1,3 @@
 {"name":"connect-four-solver","vers":"0.1.0","deps":[],"cksum":"f78061f91810b01142f0bf4190b293e52b058d2b76bc95fe9792785574f0c25e","features":{},"yanked":false}
 {"name":"connect-four-solver","vers":"0.2.0","deps":[],"cksum":"115a78916740ae3d7cae935666f8716ae20e24f3bf7a9e85a409d0d79d1f85b1","features":{},"yanked":false}
+{"name":"connect-four-solver","vers":"0.2.1","deps":[],"cksum":"07ea474eec9eede2d47921d2e8591863f7a0146ccbfcb48338f4a6ec3ffecdc9","features":{},"yanked":false}
