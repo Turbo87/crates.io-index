@@ -4,3 +4,4 @@
 {"name":"outref","vers":"0.4.0","deps":[],"cksum":"d548626b95b3dddff38938a23b83f1a0478aa6d2154222e94062369752b9206c","features":{},"yanked":false,"rust_version":"1.63.0"}
 {"name":"outref","vers":"0.5.0","deps":[],"cksum":"460b31760eb56186dc8006c41b807a59c25dda5aad08eb90c55d84d19e8aff40","features":{},"yanked":false,"rust_version":"1.63.0"}
 {"name":"outref","vers":"0.5.1","deps":[],"cksum":"4030760ffd992bef45b0ae3f10ce1aba99e33464c90d14dd7c039884963ddc7a","features":{},"yanked":false,"rust_version":"1.63.0"}
+{"name":"outref","vers":"0.5.2","deps":[],"cksum":"1a80800c0488c3a21695ea981a54918fbb37abf04f4d0720c453632255e2ff0e","features":{},"yanked":false,"rust_version":"1.63.0"}
