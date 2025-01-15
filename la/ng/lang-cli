@@ -1,1 +1,2 @@
 {"name":"lang-cli","vers":"0.0.3","deps":[{"name":"lang-interpreter","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abc73565459e6a48e1b0eed2c025ef59b3ad30a9282ec8e287ce3969bf07c080","features":{},"yanked":false}
+{"name":"lang-cli","vers":"0.1.0","deps":[{"name":"lang-interpreter","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0fd2d654d99fd557dcaf266c2f9e5af46d368f1103bb7dbf04a8a2b65a56b20","features":{},"yanked":false}
