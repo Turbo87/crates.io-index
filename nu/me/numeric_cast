@@ -4,3 +4,4 @@
 {"name":"numeric_cast","vers":"0.2.0","deps":[],"cksum":"3225aadc753c51ec1a1e1c7a1b0318bd8f5eb3bb6027e6720e42b3b870a5d74a","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"numeric_cast","vers":"0.2.1","deps":[],"cksum":"cf70ee2d9b1737d1836c20d9f8f96ec3901b2bf92128439db13237ddce9173a5","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"numeric_cast","vers":"0.2.2","deps":[],"cksum":"6699ec124a5322dd30184abe24b2b9a92237ed0fe8e038f1f410bf7cccfe8b33","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"numeric_cast","vers":"0.3.0","deps":[],"cksum":"a3c00a0c9600379bd32f8972de90676a7672cba3bf4886986bc05902afc1e093","features":{},"yanked":false,"rust_version":"1.56.0"}
