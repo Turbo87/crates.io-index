@@ -6,3 +6,4 @@
 {"name":"smn_type","vers":"0.1.5","deps":[],"cksum":"6dd9e73cac37069ca58695e585d9b07fde2b3529fd526cbc188fd2e9227f14b5","features":{},"yanked":false}
 {"name":"smn_type","vers":"0.1.6","deps":[],"cksum":"c00159caf2c84c827c55a2c7858dfa34e3c0c27443cc38d356299a51d6616586","features":{},"yanked":false}
 {"name":"smn_type","vers":"0.1.9","deps":[],"cksum":"0dbb0c6f65e661694a2614cd31f0f330cc1d903c00db8ba261bcefa3a3e39726","features":{},"yanked":false}
+{"name":"smn_type","vers":"0.1.11","deps":[],"cksum":"c02a9d2bb81e59b5ccb51a946192aa302478b97415bbbe7c30be879cc3a7d4de","features":{},"yanked":false}
