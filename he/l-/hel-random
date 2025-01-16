@@ -4,3 +4,4 @@
 {"name":"hel-random","vers":"0.3.0","deps":[],"cksum":"3e21b61b8129df10f454212832f3f3b9d26c3ef0402db9e1a927a8a502ae47eb","features":{},"yanked":false}
 {"name":"hel-random","vers":"0.4.0","deps":[],"cksum":"a9bb8407a10cd313662859dcab7cd2fc057c5c8687cba3629038919f777887d6","features":{},"yanked":false}
 {"name":"hel-random","vers":"0.5.1","deps":[],"cksum":"c6ec5dceae62d327ed7f57593153184437698af2906461fb03c37cb2b6bb92fd","features":{},"yanked":false}
+{"name":"hel-random","vers":"0.5.2","deps":[],"cksum":"e9c861c92bbe9c79e449f47d4a3f0b40f223f7c83da6aec946bad60c16aa581f","features":{},"yanked":false}
