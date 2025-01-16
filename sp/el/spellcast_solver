@@ -1,1 +1,2 @@
 {"name":"spellcast_solver","vers":"0.1.0","deps":[{"name":"crossbeam","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f24d26735de4fb7ff2a39c732e67acee853cb71455c3a3736c3be7e42c145389","features":{},"yanked":false}
+{"name":"spellcast_solver","vers":"0.2.0","deps":[{"name":"crossbeam","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"882cede88fdeb5a2aa71f73a0b8e44fc07c3a5d82457f07c470561558541d7d5","features":{},"yanked":false}
