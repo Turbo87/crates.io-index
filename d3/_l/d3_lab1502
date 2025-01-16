@@ -1,0 +1,1 @@
+{"name":"d3_lab1502","vers":"0.1.0","deps":[{"name":"convert_case","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"779fd0d5593d341fb78a35dd9f6b5aa8a8193e58b53f43c9e9ffb77d72943698","features":{},"yanked":false}
