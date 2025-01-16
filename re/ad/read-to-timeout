@@ -4,3 +4,4 @@
 {"name":"read-to-timeout","vers":"0.1.4","deps":[],"cksum":"588e782954dc8ec4727ffb40f24bf8ec87bb2ab090d9f8b157bf41e1538bc3a5","features":{},"yanked":false}
 {"name":"read-to-timeout","vers":"0.2.0","deps":[],"cksum":"369d484350293ecc5054d6b1488c0b77e857ef5f5036dc51673b59af85689e4b","features":{},"yanked":false}
 {"name":"read-to-timeout","vers":"0.3.0","deps":[],"cksum":"96922cec5b4731d6fe04e9aa4cdc3d0468ffb637bad5e63e03787d3317993312","features":{},"yanked":false}
+{"name":"read-to-timeout","vers":"0.3.1","deps":[],"cksum":"0ead9354ff00081d6d3a114801e807bbd35e479a2f038f3db313c5185ae216a5","features":{},"yanked":false}
