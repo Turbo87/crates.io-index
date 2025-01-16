@@ -3,3 +3,4 @@
 {"name":"dyn-thrift","vers":"0.1.23","deps":[],"cksum":"0e94a7026060e8693b68d4db8cef5e06804119b17e63fbddd0b3586e59ef971f","features":{},"yanked":false}
 {"name":"dyn-thrift","vers":"0.1.24","deps":[],"cksum":"9811ea0fe278cf0e2de89df6fae5934d55ba8c66c6d2092ebff94738e1d89e50","features":{},"yanked":false}
 {"name":"dyn-thrift","vers":"0.2.1","deps":[],"cksum":"7fc1a1928cc7c2be73115c266eb07b268934a5cd62019381dfcbae6ca979dbfa","features":{},"yanked":false}
+{"name":"dyn-thrift","vers":"0.2.2","deps":[],"cksum":"dd7da50085f1e59a020962a25040e3692686cc1b1163e9e0d5a4e50c2f6bc2c2","features":{},"yanked":false}
