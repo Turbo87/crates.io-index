@@ -1,3 +1,4 @@
 {"name":"tapir-bf","vers":"0.1.0","deps":[],"cksum":"ef57613b887c512878a1ac1777ffa105bd94fd32d1839707a698b3bf35a9602a","features":{},"yanked":false}
 {"name":"tapir-bf","vers":"0.2.0","deps":[],"cksum":"1ae351504152adb6f577d7154d3da3fe066be36459dfa70ab591f76f7964f8d6","features":{},"yanked":false}
 {"name":"tapir-bf","vers":"0.2.1","deps":[],"cksum":"149a7b85116450011bee9a990b00f21ec82c1daff0be83960392141fde83c03a","features":{},"yanked":false}
+{"name":"tapir-bf","vers":"0.2.2","deps":[],"cksum":"dd3d02efc9e40d2c12047843abd3bd7e0ce88b458803cd6f727dfe5aae017389","features":{},"yanked":false}
