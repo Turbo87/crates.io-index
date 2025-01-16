@@ -1,1 +1,2 @@
 {"name":"sula-alus","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79b46ca6493e0cf88cebe61f45859e069ae8e8fcb81536abf7b96619dfa1eb57","features":{},"yanked":false}
+{"name":"sula-alus","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f9dea630f1e3b388894b61006545f2e4649a9f0993ed68f06ad85850e199261","features":{},"yanked":false}
