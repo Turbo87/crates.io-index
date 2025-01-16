@@ -2,3 +2,4 @@
 {"name":"local_package","vers":"0.1.17","deps":[],"cksum":"6b7b026b10e72b63f573a579db9257f416cfe8c275c3002ad0f2348aad0f99c2","features":{},"yanked":false}
 {"name":"local_package","vers":"0.1.18","deps":[],"cksum":"f8ac2dd24bee61daae3efab4ee62cede41071782bb8e553155eaa170e10b927e","features":{},"yanked":false}
 {"name":"local_package","vers":"0.1.19","deps":[],"cksum":"0b134e47867c496218cf953dfc80089f83992ce4564cce58ec36aa0b30a40491","features":{},"yanked":false}
+{"name":"local_package","vers":"0.1.29","deps":[{"name":"clap","req":"^4.5.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6789e3a52dcbae12f4170105a315ad215084ea56027de3f56297be156e81ff51","features":{},"yanked":false}
