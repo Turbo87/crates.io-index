@@ -8,3 +8,4 @@
 {"name":"uuhelp_parser","vers":"0.0.26","deps":[],"cksum":"425a23c7b7145bc7620c9c445817c37b1f78b6790aee9f208133f3c028975b60","features":{},"yanked":false}
 {"name":"uuhelp_parser","vers":"0.0.27","deps":[],"cksum":"96f26868814bf1ca9deec910a08007c93eb1d8e407ce36451999d4c1c1ea6767","features":{},"yanked":false}
 {"name":"uuhelp_parser","vers":"0.0.28","deps":[],"cksum":"86b4d8c991cc252d4b4ea2958d0d842e36af0d1ca7f1fdc4fdce8fd0a2ff6e9c","features":{},"yanked":false}
+{"name":"uuhelp_parser","vers":"0.0.29","deps":[],"cksum":"0cf4c8b31abfb5dc79940d6ca8000a1a6aa42f38711cdeaacb95850c69924cbc","features":{},"yanked":false}
