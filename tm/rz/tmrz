@@ -1,2 +1,3 @@
 {"name":"tmrz","vers":"0.1.4","deps":[],"cksum":"7905ae2d7636ade26f81c1f711f6c72a10648edfe27076ab159ad528d96d8bf5","features":{},"yanked":false}
 {"name":"tmrz","vers":"0.1.5","deps":[],"cksum":"25d5562e548a3e1f7d1b9d69e5e2e227af6b21e3da52e30386ab431d74dd1f25","features":{},"yanked":false}
+{"name":"tmrz","vers":"0.1.6","deps":[{"name":"notify-rust","req":"^4.11.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2834bb7fa45d1654bb9048fa1b95eec4513a1ffa701707c38d0a878b1703688d","features":{},"yanked":false}
