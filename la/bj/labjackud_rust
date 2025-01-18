@@ -1,0 +1,1 @@
+{"name":"LabJackUD_rust","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.71.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7e48eab5b456e8d013a224a56f736bfb9407131904105535b4618e024da77a6a","features":{},"yanked":false}
