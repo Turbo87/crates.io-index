@@ -1,1 +1,2 @@
 {"name":"ishell","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e289c255b62b8efc9e6a0849cea53efbab22e94b60cd234f831f60e99926696e","features":{},"yanked":false}
+{"name":"ishell","vers":"0.1.1","deps":[{"name":"log","req":"^0.4.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ace2ee054ea163bd2bde0f900000dfc3a27da67c36d3aab1c6997f8d2b0971ad","features":{},"yanked":false}
