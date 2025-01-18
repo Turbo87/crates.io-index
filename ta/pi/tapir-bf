@@ -6,3 +6,4 @@
 {"name":"tapir-bf","vers":"0.4.0","deps":[],"cksum":"e42a2d7fcbeadbeb49462142e0df26a73db2aa985e62b2afb3d5e06abe65649c","features":{},"yanked":false}
 {"name":"tapir-bf","vers":"0.4.1","deps":[],"cksum":"af2c0f377b625c5c6192f9ab7fc51408f0b7f2b2fd06d7299e43f013154e637f","features":{},"yanked":false}
 {"name":"tapir-bf","vers":"0.4.2","deps":[],"cksum":"2988e747a9c6a47c493a638adb61a945167896d1ff91a5363c2d3207863074a6","features":{},"yanked":false}
+{"name":"tapir-bf","vers":"0.4.3","deps":[],"cksum":"64b0f111583801d10bda4e8028541bfa82302a29e08d6888a03a41344135d672","features":{},"yanked":false}
