@@ -2,3 +2,4 @@
 {"name":"china_identification_card","vers":"0.1.1","deps":[],"cksum":"bdafdc780137d15f5d41dd6de9533e161613eb16d5f780cfd9404b3394740ba4","features":{},"yanked":false}
 {"name":"china_identification_card","vers":"0.2.1","deps":[],"cksum":"1053e739588282e3a5078f89460386ce76af13b651debe26d373f0aecce364d9","features":{},"yanked":false}
 {"name":"china_identification_card","vers":"0.2.2","deps":[],"cksum":"5a83e19d067daea471a9e8a672189a658e74e7c0aae587e7a3df0460909d2b1f","features":{},"yanked":false}
+{"name":"china_identification_card","vers":"0.2.3","deps":[],"cksum":"38e294b6fae9eb3127af50767b2cea207dad9c2940bcb35196a325e3a45725bf","features":{},"yanked":false}
