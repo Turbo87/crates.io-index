@@ -2,3 +2,4 @@
 {"name":"compare_version","vers":"0.1.1","deps":[],"cksum":"b137c1f36c3f3660490dfcad6a22859c7ecf88cc414b52bdf10cf2686dac467e","features":{},"yanked":false}
 {"name":"compare_version","vers":"0.2.1","deps":[],"cksum":"cb4f8d8fbd0a8caba3fd157d9bf861f94117a50d7fe81898149868a9f92cb176","features":{},"yanked":false}
 {"name":"compare_version","vers":"0.2.2","deps":[],"cksum":"69b91a089d7d436a91f28ce18dd03477eb18355c9d9bca827bf1670fc22bd526","features":{},"yanked":false}
+{"name":"compare_version","vers":"0.2.3","deps":[],"cksum":"357c667bbcd6f49143d445c0ea8e87b0006ef425248e9af1eea1b2feea6bb69d","features":{},"yanked":false}
