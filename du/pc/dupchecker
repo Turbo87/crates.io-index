@@ -6,3 +6,4 @@
 {"name":"dupchecker","vers":"0.4.1","deps":[],"cksum":"5b0f2bf605c1c5f0ba5fec837cacaf02790d9fa9b4f8aa875c7a5d62ee1ec8ea","features":{},"yanked":false}
 {"name":"dupchecker","vers":"0.5.0","deps":[],"cksum":"b16b5c149f9d5f6d130a3b1751295db55715f86969772cc1266288701559a0c2","features":{},"yanked":false}
 {"name":"dupchecker","vers":"0.5.1","deps":[],"cksum":"65f5485a87f2c2ede9e49216235f2230693b64207e5c59d34e3a5abb56e02390","features":{},"yanked":false}
+{"name":"dupchecker","vers":"0.6.0","deps":[{"name":"colored","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a01e8707129d79a5c44ea9d69cbfe54a10f2c18534e8f5b394eef3f43ccac382","features":{},"yanked":false}
