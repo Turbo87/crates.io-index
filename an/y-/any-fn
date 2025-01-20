@@ -3,3 +3,4 @@
 {"name":"any-fn","vers":"0.1.2","deps":[],"cksum":"e02ac54b797a1810d764663d001bda5f13473ddcadeb868c1776712d57dd1511","features":{},"yanked":false}
 {"name":"any-fn","vers":"0.1.3","deps":[],"cksum":"4c6b9f14540fa92a28247baf6399eec2d8978a0ebca1679889d4928ede8d82b7","features":{},"yanked":false}
 {"name":"any-fn","vers":"0.2.0","deps":[],"cksum":"688e562ecf6f046e7d1e78eeed68c6f627bb9019a516c5ddfaff44fa58001669","features":{},"yanked":false}
+{"name":"any-fn","vers":"0.3.0","deps":[],"cksum":"1d20e0322ab330c4e724e3337f54c53544508337299c4dd29e3df76c5337f0af","features":{},"yanked":false}
