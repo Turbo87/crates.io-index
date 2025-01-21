@@ -26,3 +26,4 @@
 {"name":"wasmtime-slab","vers":"28.0.0","deps":[],"cksum":"8579c335220b4ece9aa490a0e8b46de78cd342b195ab21ff981d095e14b52383","features":{},"yanked":false,"rust_version":"1.81.0"}
 {"name":"wasmtime-slab","vers":"28.0.1","deps":[],"cksum":"564905638c132c275d365c1fa074f0b499790568f43148d29de84ccecfb5cb31","features":{},"yanked":false,"rust_version":"1.81.0"}
 {"name":"wasmtime-slab","vers":"29.0.0","deps":[],"cksum":"f8e57bd1a3969f514ccd4809070578ecabcfe7b9ae0bf7caeecbefa5f8e6116a","features":{},"yanked":false,"rust_version":"1.81.0"}
+{"name":"wasmtime-slab","vers":"29.0.1","deps":[],"cksum":"fcb5821a96fa04ac14bc7b158bb3d5cd7729a053db5a74dad396cd513a5e5ccf","features":{},"yanked":false,"rust_version":"1.81.0"}
