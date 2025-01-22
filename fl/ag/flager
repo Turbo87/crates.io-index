@@ -2,3 +2,4 @@
 {"name":"flager","vers":"0.0.2","deps":[],"cksum":"5fb5ce14b52b6d018f4b717ff62f5ac3cf89051446878b8d14b1895b9ea5e91d","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"flager","vers":"0.0.3","deps":[],"cksum":"b08619dfe9642739743f22fb5beafe9fdcafa7b34ebfb950cb932b2951fbc6e4","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"flager","vers":"0.0.4","deps":[],"cksum":"93ddf63c9046592d0eb9427dc55e4de1450f2ee313b040af026f976ab6c409e7","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"flager","vers":"0.0.5","deps":[],"cksum":"589e41ba2a12f3d4a2f63801528dd6c1871a79ed571fa9edd7ad0103e71a8885","features":{},"yanked":false,"rust_version":"1.56.0"}
