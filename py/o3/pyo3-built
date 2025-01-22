@@ -10,3 +10,4 @@
 {"name":"pyo3-built","vers":"0.4.6","deps":[],"cksum":"843c5bf7972395017ef1e6ba68a69668a1e52da2bc1ab81545a20894b7a866cd","features":{},"yanked":false}
 {"name":"pyo3-built","vers":"0.4.7","deps":[],"cksum":"be6d574e0f8cab2cdd1eeeb640cbf845c974519fa9e9b62fa9c08ecece0ca5de","features":{},"yanked":false}
 {"name":"pyo3-built","vers":"0.5.0","deps":[],"cksum":"35ee655adc94166665a1d714b439e27857dd199b947076891d6a17d32d396cde","features":{},"yanked":false}
+{"name":"pyo3-built","vers":"0.6.0","deps":[],"cksum":"4bf83fcee540452241ba030140f50418b973e840a64727c967b9266660f0a690","features":{},"yanked":false}
