@@ -3,4 +3,4 @@
 {"name":"values-input","vers":"0.1.2","deps":[],"cksum":"9a1ce07ac43a5971ec50ac7804abd50a980a43581c1b41cf03d1cedbb059903f","features":{},"yanked":false}
 {"name":"values-input","vers":"0.1.3","deps":[],"cksum":"b4e47afc60cc92a7a74c28cd2bfe18f125b0a489928d0550cdfbc7055f73b0bf","features":{},"yanked":false}
 {"name":"values-input","vers":"0.1.4","deps":[],"cksum":"6d76200d84d96b7bc1c55be627def8e1501a22d1fee0b81623fb8c40b100047c","features":{},"yanked":false}
-{"name":"values-input","vers":"0.1.5","deps":[],"cksum":"439b58e3464c045c2b32b812474e659707910f6e80af487fa990cddc841bf696","features":{},"yanked":true}
+{"name":"values-input","vers":"0.1.5","deps":[],"cksum":"439b58e3464c045c2b32b812474e659707910f6e80af487fa990cddc841bf696","features":{},"yanked":false}
