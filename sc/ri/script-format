@@ -1,1 +1,2 @@
 {"name":"script-format","vers":"0.2.0","deps":[{"name":"rhai","req":"^1.20.1","features":["internals"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b00e64582e98a6547f174849f72be5e77ff009040deae2856de94667613be40d","features":{},"yanked":false}
+{"name":"script-format","vers":"0.3.0","deps":[{"name":"rhai","req":"^1.20.1","features":["internals"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"799de43b87c8115dae3318a0ecae223214ac45a4e75c9c51f55d4e388d1c9ff5","features":{},"yanked":false}
