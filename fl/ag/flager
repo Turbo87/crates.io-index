@@ -3,3 +3,4 @@
 {"name":"flager","vers":"0.0.3","deps":[],"cksum":"b08619dfe9642739743f22fb5beafe9fdcafa7b34ebfb950cb932b2951fbc6e4","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"flager","vers":"0.0.4","deps":[],"cksum":"93ddf63c9046592d0eb9427dc55e4de1450f2ee313b040af026f976ab6c409e7","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"flager","vers":"0.0.5","deps":[],"cksum":"589e41ba2a12f3d4a2f63801528dd6c1871a79ed571fa9edd7ad0103e71a8885","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"flager","vers":"0.0.6","deps":[],"cksum":"0ba6dcbe63e4ef569d662255d09b81e8b99d77b38713416fd045de835a5876ba","features":{},"yanked":false,"rust_version":"1.56.0"}
