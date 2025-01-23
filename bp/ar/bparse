@@ -17,3 +17,4 @@
 {"name":"bparse","vers":"0.17.0","deps":[],"cksum":"fb3163959f12fe2268b459a358afd8aaa6d741999314d9641291cc18b811e961","features":{},"yanked":false}
 {"name":"bparse","vers":"0.18.0","deps":[],"cksum":"2f19f9245741cdfc8ae771377136072e05b30c246fa8903c7be2dbcd5dc3f53f","features":{},"yanked":false}
 {"name":"bparse","vers":"0.19.0","deps":[],"cksum":"3aa6aee8c0b85d79a30d020c6600b41606212ad9ff56d91cf19467a1c7485506","features":{},"yanked":false}
+{"name":"bparse","vers":"0.20.0","deps":[],"cksum":"65ae7c22dcd8a51dede33459ecc07122590483b7f87f6e5a4cb82b9246b5d09f","features":{},"yanked":false}
