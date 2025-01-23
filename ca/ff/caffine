@@ -1,0 +1,1 @@
+{"name":"caffine","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5.27","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c16265e6283060194d7ba1b9a16f8446ac8f4c00238f4141f2e0c9b37e5c56e","features":{},"yanked":false}
