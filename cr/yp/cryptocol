@@ -21,3 +21,4 @@
 {"name":"cryptocol","vers":"0.9.0","deps":[],"cksum":"99e1a871dee7d1a65a08ed1d761abc1aa022cfa9de92073db038a39270a74551","features":{},"yanked":false}
 {"name":"cryptocol","vers":"0.9.0-server-test.1","deps":[],"cksum":"ab0031e3c2c6aa5a43703265610e8689a267b99ae6312fb86a09675efc0305d3","features":{},"yanked":false}
 {"name":"cryptocol","vers":"0.9.0-server-test.2","deps":[],"cksum":"c43758fe560475c83e045896df7336d6b5c06410e142dbcbecd21df3d7c9976f","features":{},"yanked":false}
+{"name":"cryptocol","vers":"0.9.0-server-test.3","deps":[],"cksum":"f91c4d949676bf46ec6697fe79afec0216095341ef228899ca63529ef22e69cd","features":{},"yanked":false}
