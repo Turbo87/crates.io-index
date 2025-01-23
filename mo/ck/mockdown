@@ -5,3 +5,4 @@
 {"name":"mockdown","vers":"0.3.0","deps":[],"cksum":"5d32dfc5435a1693f6a22d07f44b6abc84af41e3cfaf6edc91f3a1a62f70e6b7","features":{},"yanked":false}
 {"name":"mockdown","vers":"0.3.1","deps":[],"cksum":"5d0cdb20c17a5f9a28a8ee61324198630b4b7baf98f10b085a69c4ecd0a1e0ac","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"mockdown","vers":"0.4.0","deps":[],"cksum":"ca146ccdd3b04356a487f04de75b972087ee377e958f3eba6b5f33908e91ef20","features":{},"yanked":false,"rust_version":"1.80"}
+{"name":"mockdown","vers":"0.4.1","deps":[],"cksum":"4f400a1c04df4da2dff931425fb0d3b01e66ce3fafc946c0ad7a7747914a7d36","features":{},"yanked":false,"rust_version":"1.80"}
