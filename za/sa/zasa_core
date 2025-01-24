@@ -4,3 +4,4 @@
 {"name":"zasa_core","vers":"0.4.0","deps":[],"cksum":"ebcb0596e1998e1e4588361dc654799ea7b105defc48c2dde1045413ac4c27d3","features":{},"yanked":false}
 {"name":"zasa_core","vers":"0.4.1","deps":[],"cksum":"20320e507369450d0b435e09527afebae0c4894519c680fb21f34c7182da4fc4","features":{},"yanked":false}
 {"name":"zasa_core","vers":"0.5.0","deps":[],"cksum":"206a6feebd2a438316c432ea81fe04c4419a5f449af8c30dd700b176263f1156","features":{},"yanked":false}
+{"name":"zasa_core","vers":"0.5.1","deps":[],"cksum":"e5c17ec85d05b88bd9105980418efc2fbd98af87a210a1de5e23416493c23dcc","features":{},"yanked":false}
