@@ -5,3 +5,4 @@
 {"name":"newnum","vers":"0.0.5","deps":[],"cksum":"84df0f7d03f3b0ed4add8bfc3827483bd65919198fe422364cd9a155fa38ecea","features":{},"yanked":false}
 {"name":"newnum","vers":"0.0.6","deps":[{"name":"splat_attribs","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10652bed21abe3e16ec027c2fae8d9dfd397eb7b6f5b5d56797fc280905e1cb3","features":{},"yanked":false}
 {"name":"newnum","vers":"0.0.7","deps":[{"name":"splat_attribs","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f17902b69d152dacdcc86998e0a0015976ee6163c45866ebd5802839aa1f6f89","features":{},"yanked":false}
+{"name":"newnum","vers":"0.0.8","deps":[{"name":"splat_attribs","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e2f3bb976cae4fd94b9c0e1ebf6d2601a9c80eb8d06379f7ba6b9dc984aeeeb","features":{},"yanked":false}
