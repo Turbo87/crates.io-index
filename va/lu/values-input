@@ -5,3 +5,4 @@
 {"name":"values-input","vers":"0.1.4","deps":[],"cksum":"6d76200d84d96b7bc1c55be627def8e1501a22d1fee0b81623fb8c40b100047c","features":{},"yanked":false}
 {"name":"values-input","vers":"0.1.5","deps":[],"cksum":"439b58e3464c045c2b32b812474e659707910f6e80af487fa990cddc841bf696","features":{},"yanked":false}
 {"name":"values-input","vers":"0.1.6","deps":[],"cksum":"6ca17ee3063a74aad1e5bc4a0bf2bd6dda2767f10c01fc7cbb2e2707c38a8f72","features":{},"yanked":false}
+{"name":"values-input","vers":"0.2.0","deps":[],"cksum":"6f2d403b514d84cc33a82c7bf969e28efc7d3728c2bbb29ef8d818a68f887574","features":{},"yanked":false}
