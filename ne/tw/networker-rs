@@ -1,1 +1,2 @@
 {"name":"networker-rs","vers":"0.1.0","deps":[],"cksum":"315c7456a24dcb23a67d56712cbe06656f28ec0cbdc512088dcb23448979b498","features":{},"yanked":false}
+{"name":"networker-rs","vers":"0.1.1","deps":[{"name":"tungstenite","req":"^0.26.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"url","req":"^2.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"183a91d32f2cd35d0467640318263da769b2de947b62718698da842c50f887f3","features":{},"yanked":false}
