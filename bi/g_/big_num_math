@@ -27,4 +27,4 @@
 {"name":"big_num_math","vers":"4.0.0","deps":[],"cksum":"c13df5fc3155d0e93960a1d974d8dfcb2c9734651d1e0a892b95c587bb89b3e4","features":{"ext-tests":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":false}
 {"name":"big_num_math","vers":"4.0.1","deps":[],"cksum":"188e9f446588ac170d383a6f377e89f1737b0a3d2308548cd5395ef52608003c","features":{"ext-tests":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":false}
 {"name":"big_num_math","vers":"4.1.0","deps":[],"cksum":"0a2fdc3386cc2cd4694d09eaf79726abc19813eb987bd6cdb4127a6528fab877","features":{"ext-tests":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":false}
-{"name":"big_num_math","vers":"4.2.0","deps":[],"cksum":"d4f815b444a54c5233f9a727b50e4faf0d511acf04d1f8ae026aecf8284949a7","features":{"ext-tests":[],"ext-tests2":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":false}
+{"name":"big_num_math","vers":"4.2.0","deps":[],"cksum":"d4f815b444a54c5233f9a727b50e4faf0d511acf04d1f8ae026aecf8284949a7","features":{"ext-tests":[],"ext-tests2":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":true}
