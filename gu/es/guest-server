@@ -5,3 +5,4 @@
 {"name":"guest-server","vers":"0.1.4","deps":[],"cksum":"aee05ab76d2b8ab31fbb43ace3f68303d1c834b0e3411526ae8abbca16248513","features":{},"yanked":false}
 {"name":"guest-server","vers":"0.1.5","deps":[],"cksum":"c2d0e006e0f5205750dbfb3300ef37f4f986d0403ed2e0574f348308c7763846","features":{},"yanked":false}
 {"name":"guest-server","vers":"0.1.6","deps":[],"cksum":"d43fbd3afd819994abcfbcbee84f20fb3f7a355c0ead6b9a370549f3375a435b","features":{},"yanked":false}
+{"name":"guest-server","vers":"0.1.7","deps":[],"cksum":"57f5a60883191226c01ea85308d0812947ebe654e6a10dd1246f261701df3ede","features":{},"yanked":false}
