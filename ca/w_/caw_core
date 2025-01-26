@@ -5,3 +5,4 @@
 {"name":"caw_core","vers":"0.3.0","deps":[],"cksum":"ab0e40a2c63e66074dcb1ed6dca628d2843501a4eddad0be80affd2bd82624c6","features":{},"yanked":false}
 {"name":"caw_core","vers":"0.3.1","deps":[],"cksum":"026b17da4babe203d6bb29680a41e8eb2e5e9a6af607595ff9b6c9b8be92d774","features":{},"yanked":false}
 {"name":"caw_core","vers":"0.3.2","deps":[],"cksum":"adf24ef214c4f71e619075c49b80e4ad5c5326bf26831feec0430bbc104ef815","features":{},"yanked":false}
+{"name":"caw_core","vers":"0.3.3","deps":[],"cksum":"fca02b7a7bb300c15c241ec6a34c249a5aa996e7293a514cdff65ef426ae86e6","features":{},"yanked":false}
