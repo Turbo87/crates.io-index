@@ -1,1 +1,1 @@
-{"name":"particle","vers":"0.0.0","deps":[{"name":"bevy","req":"^0.15.1","features":["webgpu"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27ade1ef87e2c9069dd287b2664148f8c049ce4b6a12c36efcfbeb5b487266fe","features":{},"yanked":false}
+{"name":"particle","vers":"0.0.0","deps":[{"name":"bevy","req":"^0.15.1","features":["webgpu"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27ade1ef87e2c9069dd287b2664148f8c049ce4b6a12c36efcfbeb5b487266fe","features":{},"yanked":true}
