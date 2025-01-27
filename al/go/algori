@@ -29,3 +29,4 @@
 {"name":"algori","vers":"0.11.11","deps":[],"cksum":"bdc18070cd27cb66fd5160f1c2254b40afb521a37c984e52f8e31d9b57922e6c","features":{},"yanked":false}
 {"name":"algori","vers":"0.11.12","deps":[],"cksum":"a00f0a5a1206a257ecc5c25e2432d056b6a4a67a90145a68073f07a31d7ea632","features":{},"yanked":false}
 {"name":"algori","vers":"0.12.0","deps":[],"cksum":"f4fbfcd94d32171dbef1eaee96fc4f3d08b5ffecf7883307f3543b2e033233c2","features":{},"yanked":false}
+{"name":"algori","vers":"0.13.0","deps":[],"cksum":"d30ac738a9928567d04595a565193dfb6b66f582aff9cddf6bc023d890d296c8","features":{"default":["std"],"no_std":[],"std":[]},"yanked":false}
