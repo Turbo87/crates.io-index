@@ -6,3 +6,4 @@
 {"name":"ra_ap_edition","vers":"0.0.257","deps":[],"cksum":"287c134d67e3bfb606211b039acc711c3dfd74b61dc570beb18556901d2a4cde","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"ra_ap_edition","vers":"0.0.258","deps":[],"cksum":"a7cc6633305d878cafb4a4482e7e7002d1a5d7b15fa837728b6613ff5336f8a4","features":{},"yanked":false,"rust_version":"1.82"}
 {"name":"ra_ap_edition","vers":"0.0.259","deps":[],"cksum":"d71383317d5f157444917eadb61557c43b7aa4f8d54d1abf5ce636e77299cc11","features":{},"yanked":false,"rust_version":"1.82"}
+{"name":"ra_ap_edition","vers":"0.0.260","deps":[],"cksum":"d5d369c3f5c215a49158aafaee72792c383081513a0f3b39d6bad1bbe52bb6a1","features":{},"yanked":false,"rust_version":"1.84"}
