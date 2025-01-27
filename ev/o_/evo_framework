@@ -3,3 +3,4 @@
 {"name":"evo_framework","vers":"2025.1.60001","deps":[],"cksum":"29b2e7ef53c3a097ba7930fc14c9d6532c738afd206c3ac801eda10a61430e4d","features":{},"yanked":false}
 {"name":"evo_framework","vers":"2025.1.61248","deps":[],"cksum":"88c1db97dfd21b6082a25a6fde97611d8c8dd4f3f4de58883e7b65f415c86292","features":{},"yanked":false}
 {"name":"evo_framework","vers":"2025.1.181903","deps":[],"cksum":"69531d36cbcb5779d64ba3c591b01da938abd807d8c9f1a27b04ea6924d649d2","features":{},"yanked":false}
+{"name":"evo_framework","vers":"2025.1.270354","deps":[],"cksum":"0449ccb3a32caac41506a36f6c4b609f3e0fbc1ac861b4568b804bcc787aec4a","features":{},"yanked":false}
