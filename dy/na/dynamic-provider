@@ -1,1 +1,2 @@
 {"name":"dynamic-provider","vers":"0.1.0","deps":[],"cksum":"7de6531f0e33aecceae82c0d8833d5a1771119ca20cfb87f025152c6916d2aee","features":{"alloc":[]},"yanked":false,"rust_version":"1.79"}
+{"name":"dynamic-provider","vers":"0.1.1","deps":[],"cksum":"7d1a5bc2144affb04dd78c65ef88f545bffc4cb0bf895a9258af65cba5229049","features":{"alloc":[]},"yanked":false,"rust_version":"1.79"}
