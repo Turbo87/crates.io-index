@@ -90,3 +90,4 @@
 {"name":"fuel-core-bft","vers":"0.41.2","deps":[],"cksum":"ee82f698d430895f62c4f8ffb93470137ca622b2ce8192f1f4132db4d9b11dc7","features":{},"yanked":false}
 {"name":"fuel-core-bft","vers":"0.41.3","deps":[],"cksum":"0a6ba8a1f618c189b9209c5b569d50be84561c7340d7b61fc926f46a2f96dc6d","features":{},"yanked":false}
 {"name":"fuel-core-bft","vers":"0.41.4","deps":[],"cksum":"2c911b0060248a00894c09e8faa43494a4bd6d15f12322618016af151944fffc","features":{},"yanked":false}
+{"name":"fuel-core-bft","vers":"0.40.4","deps":[],"cksum":"7069d5abee624df8faee2c38ee732cf014ef89f18f529f5bba15327512a3fa2a","features":{},"yanked":false}
