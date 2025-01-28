@@ -1,1 +1,2 @@
 {"name":"styledlog","vers":"0.0.0","deps":[],"cksum":"a8bfc776e8786653e21fe3fe9559b9e6b96fa7e32046d8c2152451944554054e","features":{},"yanked":false}
+{"name":"styledlog","vers":"0.1.0","deps":[{"name":"colored","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lazy_static","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aee1b29add7576ae317067fc7de76cb0a7eb1b68ce174ea1651d7d1abc8435ab","features":{},"yanked":false}
