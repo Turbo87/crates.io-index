@@ -2,3 +2,4 @@
 {"name":"proto-tower-grpc","vers":"0.1.1","deps":[],"cksum":"19c05016de54aebd0325e66c94a9f89650666a0b001559bb249e6c4a82e031f2","features":{"client":["data"],"data":[],"server":["data"]},"yanked":false}
 {"name":"proto-tower-grpc","vers":"0.1.2","deps":[],"cksum":"2b039fb0327c5a8c2a6fddc456e8acf19d78eaae5d218b0183f8010d71228a8d","features":{"client":["data"],"data":[],"server":["data"]},"yanked":false}
 {"name":"proto-tower-grpc","vers":"0.1.3","deps":[],"cksum":"fa08bae4b46d376ea83cac7b3f631133d0af04d5684bdb11b83a3f3f49734d6c","features":{"client":["data"],"data":[],"server":["data"]},"yanked":false}
+{"name":"proto-tower-grpc","vers":"0.1.4","deps":[],"cksum":"da04b64d9ddf7783c00ead819c0b87eb4e4951803ede04a989f67155a7247563","features":{"client":["data"],"data":[],"server":["data"]},"yanked":false}
