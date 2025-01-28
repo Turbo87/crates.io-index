@@ -3,3 +3,4 @@
 {"name":"miden-rpc-proto","vers":"0.5.1","deps":[],"cksum":"b7689049b22d836e159f8e4d5facc57040ab6cabd4c849e527fe3055fa824c44","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.80"}
 {"name":"miden-rpc-proto","vers":"0.6.0","deps":[],"cksum":"e3cd29d062cd2af2345b1e99e95af3133bb0486a02c3126d55ef6a57dee966a1","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.82"}
 {"name":"miden-rpc-proto","vers":"0.7.0","deps":[],"cksum":"6c2edb867ffc4cd908bb98b48f326016e36158129faba39aef574a0f33433b60","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.82"}
+{"name":"miden-rpc-proto","vers":"0.7.1","deps":[],"cksum":"9ba69b23bbfb0ce523a63ecae98756afc47f438727d3d9763cdbccb9c660f1a2","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.82"}
