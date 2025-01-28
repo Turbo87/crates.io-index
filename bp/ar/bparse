@@ -18,3 +18,4 @@
 {"name":"bparse","vers":"0.18.0","deps":[],"cksum":"2f19f9245741cdfc8ae771377136072e05b30c246fa8903c7be2dbcd5dc3f53f","features":{},"yanked":false}
 {"name":"bparse","vers":"0.19.0","deps":[],"cksum":"3aa6aee8c0b85d79a30d020c6600b41606212ad9ff56d91cf19467a1c7485506","features":{},"yanked":false}
 {"name":"bparse","vers":"0.20.0","deps":[],"cksum":"65ae7c22dcd8a51dede33459ecc07122590483b7f87f6e5a4cb82b9246b5d09f","features":{},"yanked":false}
+{"name":"bparse","vers":"0.21.0","deps":[],"cksum":"0c191ac646a9477c87890ed3d6fe0277720dfd01758259cfa9e2ceffe26f0eb8","features":{},"yanked":false}
