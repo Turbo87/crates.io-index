@@ -9,3 +9,4 @@
 {"name":"rust_ti","vers":"1.2.1","deps":[],"cksum":"7701cba91dd0f412a22a22b6fb7743aaedab9eb225b42bbadece93e2853dd856","features":{},"yanked":false}
 {"name":"rust_ti","vers":"1.3.0","deps":[],"cksum":"6cc34a126044f7a8dbbe506a301d488036da976761a082b50b1b168291591b8c","features":{},"yanked":false}
 {"name":"rust_ti","vers":"1.3.2","deps":[],"cksum":"359082482c444b412bcb2804dcac013ccc1aa914736ee61d12a2a66243bb84b7","features":{},"yanked":false}
+{"name":"rust_ti","vers":"1.3.3","deps":[],"cksum":"53e88356e99394d99146fed69bd678788f1660ea31813aa81cb2dbcaee1bc603","features":{},"yanked":false}
