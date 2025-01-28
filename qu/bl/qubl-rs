@@ -20,3 +20,4 @@
 {"name":"qubl-rs","vers":"2.1.0","deps":[],"cksum":"db3cea9e28868039c5808690c4e2d9b658f63d035b64b5801575da9be30f4413","features":{},"yanked":false}
 {"name":"qubl-rs","vers":"2.2.0","deps":[],"cksum":"e35a6eb283fe5e7fb85290e31fd6123054e241f68a6d962852e7d908b150a9bb","features":{},"yanked":false}
 {"name":"qubl-rs","vers":"2.3.0","deps":[],"cksum":"a96e8e964421f3cc0a4858ee6dbacc1e7d049073994a402bbf8443c6842b03a2","features":{},"yanked":false}
+{"name":"qubl-rs","vers":"2.4.0","deps":[],"cksum":"277841e9d6e59b747531b93065336c122c4164d5fa63fd6e753ba60726bde6fa","features":{},"yanked":false}
