@@ -1,1 +1,2 @@
 {"name":"semaphore-rs-hasher","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa7b719954d5eb6bcf57aaf7e0f679e935d399d8071fa591662465465b960665","features":{},"yanked":false}
+{"name":"semaphore-rs-hasher","vers":"0.2.0","deps":[{"name":"bytemuck","req":"^1.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"960689280f6dbbb94794e2583f04fd06541db6e68a7c0d2e9910dc128da7b990","features":{},"yanked":false}
