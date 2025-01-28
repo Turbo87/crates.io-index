@@ -1,2 +1,3 @@
 {"name":"proto-tower-grpc","vers":"0.1.0","deps":[],"cksum":"a338d685282ccc89e244cb6a5201680057ff74733fd4c2b70416128f61ff8032","features":{"client":["data"],"data":[],"server":["data"]},"yanked":false}
 {"name":"proto-tower-grpc","vers":"0.1.1","deps":[],"cksum":"19c05016de54aebd0325e66c94a9f89650666a0b001559bb249e6c4a82e031f2","features":{"client":["data"],"data":[],"server":["data"]},"yanked":false}
+{"name":"proto-tower-grpc","vers":"0.1.2","deps":[],"cksum":"2b039fb0327c5a8c2a6fddc456e8acf19d78eaae5d218b0183f8010d71228a8d","features":{"client":["data"],"data":[],"server":["data"]},"yanked":false}
