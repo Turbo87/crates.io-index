@@ -1,0 +1,1 @@
+{"name":"dealtech-path","vers":"0.1.1","deps":[{"name":"dealtech-hats","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a8361318032ed07f659c828fe81eea0289a44fd42ae61871e7f372eed97d750","features":{"hats":["dealtech-hats"]},"yanked":false}
