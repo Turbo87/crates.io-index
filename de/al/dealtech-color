@@ -1,0 +1,1 @@
+{"name":"dealtech-color","vers":"0.1.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c42e0b3d9ba5de1043051384709b520a8a1ba93e2c57c7194c9c538da03b0184","features":{},"yanked":false}
