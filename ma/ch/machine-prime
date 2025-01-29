@@ -11,5 +11,5 @@
 {"name":"machine-prime","vers":"1.5.1","deps":[],"cksum":"b66a0fa1bff0724c15528f46a9c37554c37b598e24976917f32b246c8f947a8b","features":{"default":["table"],"internal":[],"lucas":[],"ssmr":[],"table":[],"wide":[]},"yanked":true}
 {"name":"machine-prime","vers":"1.5.2","deps":[],"cksum":"f62ebabb004f1a0d8cb02e21ed2456828d4a65b44b0f0b7de29847cee5d7c3a3","features":{"default":["table"],"internal":[],"lucas":[],"ssmr":[],"table":[],"wide":[]},"yanked":false}
 {"name":"machine-prime","vers":"1.5.3","deps":[],"cksum":"9c5d9b9f4373b925d2fae0852b34ca6946967d192238812bb572d8cb0222d580","features":{"default":["table"],"internal":[],"lucas":[],"ssmr":[],"table":[],"wide":[]},"yanked":true}
-{"name":"machine-prime","vers":"1.5.4","deps":[],"cksum":"3d580791adec54651e29b735f95e864d3ff1da1b024c0e17b2a6b0c28b6bda79","features":{"default":["table"],"internal":[],"lucas":[],"ssmr":[],"table":[],"wide":[]},"yanked":false}
+{"name":"machine-prime","vers":"1.5.4","deps":[],"cksum":"3d580791adec54651e29b735f95e864d3ff1da1b024c0e17b2a6b0c28b6bda79","features":{"default":["table"],"internal":[],"lucas":[],"ssmr":[],"table":[],"wide":[]},"yanked":true}
 {"name":"machine-prime","vers":"1.5.5","deps":[],"cksum":"6dc82d8f07dbce4617251b99e6abd8b3c5758ac52fe74151fd0fb0b3c8945fee","features":{"default":["table"],"internal":[],"lucas":[],"ssmr":[],"table":[],"wide":[]},"yanked":false}
