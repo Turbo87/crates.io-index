@@ -7,3 +7,4 @@
 {"name":"dyn_trie","vers":"1.1.0","deps":[],"cksum":"1d6cc8b5ffe6495cc29f1c785df9e79f512d8bbacb2d0bb096d8e170ec68c017","features":{},"yanked":true}
 {"name":"dyn_trie","vers":"1.0.6","deps":[],"cksum":"b0ec48712776795346b6dc53badfaf76c2d24470caa1bf9b16f3ab375ebc9503","features":{},"yanked":false}
 {"name":"dyn_trie","vers":"1.1.1","deps":[],"cksum":"27f00cb9fcc4b7c2451cc9234590a286d948fdb4cefdaf066e421493864e68db","features":{},"yanked":false}
+{"name":"dyn_trie","vers":"2.0.0","deps":[],"cksum":"53171801f77b35bea60fdffce79f5bc560786df1d7413f38123cdf4e31fe2ee3","features":{},"yanked":false}
