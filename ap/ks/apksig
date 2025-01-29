@@ -5,3 +5,4 @@
 {"name":"apksig","vers":"0.1.4","deps":[],"cksum":"357abea23c66c541bb9a6e47407b9e34a9f1387b3fa8adc48c69ace49dad588a","features":{},"yanked":false}
 {"name":"apksig","vers":"0.1.5","deps":[],"cksum":"b60bfb3a50c45181835d0fb88e04bd2acaceecdc7cecb7b0d396c8af88a11653","features":{},"yanked":false}
 {"name":"apksig","vers":"0.1.6","deps":[{"name":"serde","req":"^1.0.217","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e0b0d47cbb6245b690dc19d90a34ecb222742f4acd97fe5c6087a15401ee16c","features":{},"yanked":false}
+{"name":"apksig","vers":"0.1.7","deps":[{"name":"serde","req":"^1.0.217","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fec193e39a4c02b8015880cfe15588bd1e7c3766bf2d92050c7f32be78223d1","features":{},"yanked":false}
