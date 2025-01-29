@@ -1,2 +1,3 @@
 {"name":"execution-time","vers":"0.1.0","deps":[],"cksum":"f45e559e5f14a4199bb8a9c7525f660ff630437e2f0702a95c2d26dcae28d109","features":{},"yanked":false}
 {"name":"execution-time","vers":"0.1.1","deps":[],"cksum":"f8459346a2bde9438c5d7e7f635f1f4fc919adef6f409cfd7b973cad90639e64","features":{},"yanked":false}
+{"name":"execution-time","vers":"0.1.2","deps":[],"cksum":"58b89b7cc01afb214a3402bf289660bda9a315b1017fe12003c91a378d3b841d","features":{},"yanked":false}
