@@ -1,0 +1,1 @@
+{"name":"dealtech-hats","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ae76fa6d8e4fa6121a36de9476efa3bdbd1e61b10295ea6e2e3310dbcce8250","features":{},"yanked":false}
