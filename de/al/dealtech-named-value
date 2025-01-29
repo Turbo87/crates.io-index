@@ -1,0 +1,1 @@
+{"name":"dealtech-named-value","vers":"0.1.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"873861e3d3f4bd8f1a5062d138bc2d164d19f6c0b4654dd6f06142bac5cd498d","features":{},"yanked":false}
