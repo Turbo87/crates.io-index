@@ -18,3 +18,4 @@
 {"name":"plain_trie","vers":"7.1.0","deps":[],"cksum":"4f45c4ff8457e4cfdfecf049f0b07c09753c35bd31b6fe3044c836414146439e","features":{"test-ext":[]},"yanked":false}
 {"name":"plain_trie","vers":"7.1.1","deps":[],"cksum":"44d5050a3b020f74b1eb94f66aa7f7e57b39ab1dbb84dba3eaddd0c7be342952","features":{"test-ext":[]},"yanked":false}
 {"name":"plain_trie","vers":"7.1.2","deps":[],"cksum":"c501f70a0cbf707762afb450fd5150056f25fa578ba080b9063cde3ba85ca6cc","features":{"test-ext":[]},"yanked":false}
+{"name":"plain_trie","vers":"7.1.3","deps":[],"cksum":"4d65bd6e0341cd6acbe48852decec6051a6ca777fb8be2807dd785a87e44e0ea","features":{"test-ext":[]},"yanked":false}
