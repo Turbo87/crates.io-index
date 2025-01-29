@@ -30,3 +30,4 @@
 {"name":"big_num_math","vers":"4.2.0","deps":[],"cksum":"d4f815b444a54c5233f9a727b50e4faf0d511acf04d1f8ae026aecf8284949a7","features":{"ext-tests":[],"ext-tests2":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":true}
 {"name":"big_num_math","vers":"4.2.1","deps":[],"cksum":"d9af1ec5f6a3184c6b484037cb1057c7e5c1934d39a8da020caf1e6285e96621","features":{"ext-tests":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":false}
 {"name":"big_num_math","vers":"4.2.2","deps":[],"cksum":"4a250569728169481d5e2fb098e6c0a3f27be1918644e5dee5059cb1b9edcad8","features":{"ext-tests":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":false}
+{"name":"big_num_math","vers":"4.2.3","deps":[],"cksum":"961bb237613f8d2338c4046bfc346c0e03a32b309564e81f268caa0719e14b0d","features":{"ext-tests":[],"one-power-mulmul-support":[],"shorter-dividend-support":[]},"yanked":false}
