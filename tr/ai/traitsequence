@@ -11,3 +11,4 @@
 {"name":"traitsequence","vers":"1.1.0","deps":[],"cksum":"e43e9c5a3771f5149c0290c829e87524803a89e466c5d170d0b14face79b299d","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"traitsequence","vers":"2.0.0","deps":[],"cksum":"c4cd2caadbd36e66fb9aea075afd8c4e693773b276e9842928fb2c8a8d29d889","features":{},"yanked":false,"rust_version":"1.65.0"}
 {"name":"traitsequence","vers":"3.0.0","deps":[],"cksum":"eccc87c72a0ca5aec58d3f762b496c87c6500884511fcf878942dd8bed63cc69","features":{},"yanked":false,"rust_version":"1.65.0"}
+{"name":"traitsequence","vers":"8.1.1","deps":[],"cksum":"4ec80425f283b4233e182a1725e1d665f5d3385f0a189800be93ecf551989b5e","features":{},"yanked":false,"rust_version":"1.74.0"}
