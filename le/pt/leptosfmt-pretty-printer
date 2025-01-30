@@ -11,3 +11,4 @@
 {"name":"leptosfmt-pretty-printer","vers":"0.1.30","deps":[],"cksum":"de88d00d69afe2c9ed4a9922c5d0ae1d2d19bbc13d5d40f21de57c665807e6cc","features":{},"yanked":false}
 {"name":"leptosfmt-pretty-printer","vers":"0.1.31","deps":[],"cksum":"d6d5c7792c1541c511ab38a0e81012cc80e069194dafeaef373176aae042fc3d","features":{},"yanked":false}
 {"name":"leptosfmt-pretty-printer","vers":"0.1.32","deps":[],"cksum":"7bdc7e5713ae8c71056d62b1c269c9fe851364985b4978e5d56a64ff3f12cc44","features":{},"yanked":false}
+{"name":"leptosfmt-pretty-printer","vers":"0.1.33","deps":[],"cksum":"ed44cb9a3581ddb9e63afb7205aeb340243b9ad10caf22f50b5c52b598465e49","features":{},"yanked":false}
