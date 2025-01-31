@@ -33,3 +33,4 @@
 {"name":"cord-nvim","vers":"2.0.0-beta.33","deps":[],"cksum":"3b0bce899f68f5784dedde3ec6fbd1af882a67d5eb4f7a355b9d14b6e4d85515","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"cord-nvim","vers":"2.0.0-beta.34","deps":[],"cksum":"757075f7320818267501c0c5a9ba3cd2c3f700139673ac8696752ef1769a80aa","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"cord-nvim","vers":"2.0.0-beta.35","deps":[],"cksum":"7a806a958b01c546e018c4e5fd5af310c5214dce633731ec1c561623b6811a23","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"cord-nvim","vers":"2.0.0","deps":[],"cksum":"204d038658567b3e2974b0b1651b262ca59b635082a29252d2eb60692f449f40","features":{},"yanked":false,"rust_version":"1.85"}
