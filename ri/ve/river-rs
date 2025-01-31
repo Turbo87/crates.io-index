@@ -3,3 +3,4 @@
 {"name":"river-rs","vers":"0.1.7","deps":[],"cksum":"3f4b9c8a3744fb33dd0cc6f3df8222e72ad10933cb3496be6f566359580b2b61","features":{},"yanked":false}
 {"name":"river-rs","vers":"0.2.0","deps":[],"cksum":"bb88ba7051cb6f8c80e1de5bb290bbe4d297fd109527f637e5602447f1661904","features":{},"yanked":false}
 {"name":"river-rs","vers":"0.2.1","deps":[],"cksum":"66c5a270e43e733129ec621ac360d9be175f15f0e598e030e2d8a1a169a60c6f","features":{},"yanked":false}
+{"name":"river-rs","vers":"0.2.5","deps":[],"cksum":"d2a4ec00111b711a9cf017292e09a5e41504f36e8052bcfcb00908c8d06b19cb","features":{},"yanked":false}
