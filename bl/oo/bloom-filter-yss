@@ -2,3 +2,4 @@
 {"name":"bloom-filter-yss","vers":"0.2.0","deps":[],"cksum":"2d0699ab5bfb4795c5bca2b4d3e57e4e96a57d379b8d9adc771629102d2cd375","features":{},"yanked":false}
 {"name":"bloom-filter-yss","vers":"0.3.0","deps":[],"cksum":"cb177370bebc6fb019dac558a047341f1ee45f14a6fd6047f076ba3d2c4dfb09","features":{},"yanked":false}
 {"name":"bloom-filter-yss","vers":"0.3.1","deps":[],"cksum":"ca5f2d9b6180c763ea0119af813e167cb099fb633e19ff7fe7e84efc665ec44f","features":{},"yanked":false}
+{"name":"bloom-filter-yss","vers":"0.3.2","deps":[],"cksum":"f226d59edccd2c704af1ef8f3b02313d030762e2c6c8ab6db645e6e5fb8d27e5","features":{},"yanked":false}
