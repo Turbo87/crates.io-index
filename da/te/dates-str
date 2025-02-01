@@ -6,3 +6,4 @@
 {"name":"dates-str","vers":"1.4.2","deps":[{"name":"snafu","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9986abf65199a7544a983501abef724ffe6f2a9ef31f633c13984ffb8b5d8cb7","features":{},"yanked":false}
 {"name":"dates-str","vers":"1.4.3","deps":[{"name":"snafu","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2806b05579e711d9b7ea1f69ca83856f823f894bc58328f068a2d84dfde9dbd5","features":{},"yanked":false}
 {"name":"dates-str","vers":"1.4.4","deps":[{"name":"snafu","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c9e0125b65fa7cfa15352113957913bd7b792de45a745e6aa3a29a716bcc54d","features":{},"yanked":false}
+{"name":"dates-str","vers":"2.0.0","deps":[],"cksum":"4451fe679e569b02e1d348a569a8121d3aebfe60e64fbc2e58f619e5330aae74","features":{},"yanked":false}
