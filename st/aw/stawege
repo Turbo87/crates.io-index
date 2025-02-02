@@ -1,2 +1,3 @@
 {"name":"stawege","vers":"0.1.0","deps":[],"cksum":"d315ed1370e09a7ccba6f6b4848fb2ca6cf140a256ea97b98956692445ff7c64","features":{},"yanked":true}
 {"name":"stawege","vers":"0.2.0","deps":[],"cksum":"0548f72992fbeff8704f17242e43d77af7d126713eb783b35ca5eb37177085ae","features":{},"yanked":false}
+{"name":"stawege","vers":"0.2.1","deps":[],"cksum":"ff5a4fc4b1feb129272d5803a1dba3d9eeda3c731df9be4fe6c113c1a70dad45","features":{},"yanked":false}
