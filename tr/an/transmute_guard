@@ -1,1 +1,2 @@
 {"name":"transmute_guard","vers":"0.1.0","deps":[],"cksum":"01647616f3b43859ff9b65a7a3c9a27f5062402f88277c1f5d2e51a3ef8c4b8b","features":{"ascii_char":[],"nightly":["ascii_char"]},"yanked":false}
+{"name":"transmute_guard","vers":"0.2.0","deps":[],"cksum":"b0e4f0e7c6ec0d25a6204329738ad6bcb594e948c65e88cc77856a01e37d1f17","features":{"ascii":[],"nightly":["ascii"]},"yanked":false}
