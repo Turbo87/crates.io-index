@@ -4,3 +4,4 @@
 {"name":"transmute_guard","vers":"0.2.2","deps":[],"cksum":"d1f2ed3bbd33a9779bc96bc9cd51fd83d74da6aab5aee83203d1808d24e35e0b","features":{"ascii":[],"nightly":["ascii"]},"yanked":false}
 {"name":"transmute_guard","vers":"0.2.3","deps":[],"cksum":"4dd25b94b55ea5cfff01ed34662fb3571f77313f4aeb9d2da685be63d7c54134","features":{"ascii":[],"nightly":["ascii"]},"yanked":false}
 {"name":"transmute_guard","vers":"0.2.4","deps":[],"cksum":"1e9c61f43141910adf7ac9c592beabeff9cc7daa2b16fb6aaf72cd9070f6ce39","features":{"ascii":[],"nightly":["ascii"]},"yanked":false}
+{"name":"transmute_guard","vers":"0.2.5","deps":[],"cksum":"baba25269c78303b03e80267cdfc6a3dbd2d9f8c9921d59e3f242be75d401583","features":{"ascii":[],"nightly":["ascii"]},"yanked":false}
