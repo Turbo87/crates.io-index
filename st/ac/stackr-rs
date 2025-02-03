@@ -5,3 +5,4 @@
 {"name":"stackr-rs","vers":"0.1.4","deps":[],"cksum":"e5e72c0ef099304b3e5f1b0078b2e12a2bf4517eb968337aac776d3e639323bc","features":{},"yanked":false}
 {"name":"stackr-rs","vers":"0.1.5","deps":[],"cksum":"70f08228ef7dc3ea471f821387b03f57a87377895d68f5bcb95f8a915286463c","features":{},"yanked":false}
 {"name":"stackr-rs","vers":"0.1.6","deps":[],"cksum":"52b9c969ee031af064f4ecd6d883b64ae2b66c8233ba6eb0ca1b3d13db23d9c9","features":{},"yanked":false}
+{"name":"stackr-rs","vers":"0.1.7","deps":[],"cksum":"127e8a3996b1b68bbfa5db119f1f12d1a25de1f86e3b6934cddc17562ee4ab5b","features":{},"yanked":false}
