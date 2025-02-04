@@ -1,0 +1,1 @@
+{"name":"laika","vers":"0.1.3","deps":[{"name":"tokio","req":"^1.43","features":["rt","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3006971718a1164fc5ad20c8e806c44e003cef31043568531582cc0c580f388e","features":{"shotgun":[]},"yanked":false}
