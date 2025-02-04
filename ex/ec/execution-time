@@ -5,3 +5,4 @@
 {"name":"execution-time","vers":"0.1.4","deps":[],"cksum":"ec0e78b6dfd6bcdad56ec7e65b0e14311040ecf1e287259de0aea341b128c73c","features":{},"yanked":false}
 {"name":"execution-time","vers":"0.1.5","deps":[],"cksum":"b91334af38f144bbf330ea3c3bf25a0ac1c3c96cb29566bc81a4a8c053e7a6a2","features":{},"yanked":false}
 {"name":"execution-time","vers":"0.1.6","deps":[],"cksum":"a46ff9c422d6c1285d4afe9127db72ed44be2087e42430b9f14c4623e57d3f59","features":{},"yanked":false}
+{"name":"execution-time","vers":"0.2.0","deps":[],"cksum":"c94ed914efd8a33b80f8ecd95e0cfea755b9c92abc14b0b9c0b062d6b63a1a23","features":{},"yanked":false}
