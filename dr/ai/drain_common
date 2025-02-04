@@ -1,2 +1,3 @@
 {"name":"drain_common","vers":"0.4.0","deps":[],"cksum":"00a75a45e39e058151382709c6afc6a06da2d36a555ce0e4ff7f1a703276eccc","features":{},"yanked":false}
 {"name":"drain_common","vers":"0.4.5","deps":[],"cksum":"7a08100f4dc9054405eed0d43ea7c49d63abdeda4799ed1ad186ab0c572d8eda","features":{},"yanked":false}
+{"name":"drain_common","vers":"0.5.0","deps":[],"cksum":"04dc962161d0d234454edd9b75ad98c343827169d6d29a9fffb182080a809fdc","features":{},"yanked":false}
