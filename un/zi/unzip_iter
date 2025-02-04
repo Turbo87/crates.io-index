@@ -13,3 +13,4 @@
 {"name":"unzip_iter","vers":"0.5.4","deps":[],"cksum":"b44a2bb4d984b96dc9bc7844c26cc1694523973009be344d2f6c7e71c7671e19","features":{},"yanked":false}
 {"name":"unzip_iter","vers":"0.5.5","deps":[],"cksum":"24abb38c772a3e32cca6c5b7ba8d706a615884d67aea5474a767f0ddb83ec73b","features":{},"yanked":false}
 {"name":"unzip_iter","vers":"0.6.0","deps":[],"cksum":"b4fbaad65041276efb84891c0808e75d0a17bfde3ea9582bd007274144606552","features":{},"yanked":false}
+{"name":"unzip_iter","vers":"0.6.1","deps":[],"cksum":"ea9b9baee06f03e5fb4f7a0db086194b565ed48f1e11d5050e1c4ed9dc61d3cb","features":{},"yanked":false}
