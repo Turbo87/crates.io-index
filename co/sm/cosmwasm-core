@@ -10,3 +10,4 @@
 {"name":"cosmwasm-core","vers":"2.2.0-rc.3","deps":[],"cksum":"a19d91eec9337ce537d041a06d6ce53966bf37a2794de99fe52635063d51364f","features":{},"yanked":false}
 {"name":"cosmwasm-core","vers":"2.1.5","deps":[],"cksum":"cabbba3cbcf1ebdf61c782509916657a3b4e079ed68cb3ec38866f9ecb492ba4","features":{},"yanked":false}
 {"name":"cosmwasm-core","vers":"2.2.0","deps":[],"cksum":"c34c440d4d8e3ecec783d0f9c89d25565168b0f4cdb80a1f6a387cf2168c0740","features":{},"yanked":false}
+{"name":"cosmwasm-core","vers":"2.2.1","deps":[],"cksum":"de32156e4fd80c59be39ed6f4ebb596d59b0a4eaf01d6f146e27628ec7e8f8c1","features":{},"yanked":false}
