@@ -7,3 +7,4 @@
 {"name":"evo_framework","vers":"2025.2.11111","deps":[],"cksum":"be21ac0777ac011d4398e0dce364d854dac466597958cdd3f1fdd8ef2349d950","features":{"doc-uml":[]},"yanked":false}
 {"name":"evo_framework","vers":"2025.2.11521","deps":[],"cksum":"a1edfa56bc4378f73fa27e0e64f8e13103b23d3b0662b1c7d3d01855a9a8836b","features":{"doc-uml":[]},"yanked":false}
 {"name":"evo_framework","vers":"2025.2.11549","deps":[],"cksum":"1a6ccf3d0773e4584372795d8ef19c09c93f3c4783283c8978436ef2146e02c8","features":{"doc-uml":[]},"yanked":false}
+{"name":"evo_framework","vers":"2025.2.51300","deps":[],"cksum":"8ca8b2eae0b0fa76ac3238f2220ff6f0d97f420121f8d7dc09e0a58cf2ed854c","features":{"doc-uml":[]},"yanked":false}
