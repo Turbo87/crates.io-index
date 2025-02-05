@@ -2,3 +2,4 @@
 {"name":"panicmsg","vers":"0.1.1","deps":[],"cksum":"505645a81a910603cbd9d3cdba51952eff895c1ea85ee9af724f1fe085727a68","features":{},"yanked":true}
 {"name":"panicmsg","vers":"0.1.2","deps":[],"cksum":"94032ba9cd8485a4985952b7a17c1560667364fe1d08f6caf250e717e24489a4","features":{},"yanked":false}
 {"name":"panicmsg","vers":"1.0.0","deps":[],"cksum":"b3c4e1c17a86fc36044421030fa77a7c96cacc09cab551ad0fb3bd4ab5a91c02","features":{},"yanked":false}
+{"name":"panicmsg","vers":"1.0.1","deps":[],"cksum":"d023d47a0900921f0147e2a1a193791d94893907c0745496ceb200faf533cfa2","features":{},"yanked":false}
