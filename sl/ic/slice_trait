@@ -5,3 +5,4 @@
 {"name":"slice_trait","vers":"0.1.4","deps":[],"cksum":"71e945ba6ad75a4b29555341920a958ca9799d1b1c62a3f8d444ba3a0e7f0ad4","features":{},"yanked":false}
 {"name":"slice_trait","vers":"0.1.5","deps":[],"cksum":"4b8196958a48ef828f6ea274ff4542cd34a91a7d8bb89c30badfa1f43126a5c0","features":{},"yanked":false}
 {"name":"slice_trait","vers":"0.1.6","deps":[{"name":"moddef","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6dc586ec084f3c2021529ae73a511dfe80b41791d9fe19a4d72b73242604bbe","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"slice_trait","vers":"0.1.7","deps":[{"name":"moddef","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"923674961312d5253369783ac0efcaad36ff889872277ab52c8197a48c087e7c","features":{"alloc":[],"default":["alloc"]},"yanked":false}
