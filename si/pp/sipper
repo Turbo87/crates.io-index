@@ -1,1 +1,2 @@
 {"name":"sipper","vers":"0.0.0","deps":[],"cksum":"468bb29efa6c9242f9ae140c29cd552b59682efbbe8ebd84793d4dcf06649012","features":{},"yanked":false}
+{"name":"sipper","vers":"0.0.1","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.43","features":["rt","macros","time"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8533df96837b2b28ec373bec3415a2806c9fbcec9b8b8c5c53786bb76c669d54","features":{},"yanked":false}
