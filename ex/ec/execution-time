@@ -8,3 +8,4 @@
 {"name":"execution-time","vers":"0.2.0","deps":[],"cksum":"c94ed914efd8a33b80f8ecd95e0cfea755b9c92abc14b0b9c0b062d6b63a1a23","features":{},"yanked":false}
 {"name":"execution-time","vers":"0.2.1","deps":[],"cksum":"9df1fca81c28b87593e4aa59871ba4a68828a27841fcdc2ab6f810eebd667f1c","features":{},"yanked":false}
 {"name":"execution-time","vers":"0.3.0","deps":[],"cksum":"691576f033abc93995d931702b9a274bc768274d5deb04e3f08fa97b9e409d0c","features":{},"yanked":false}
+{"name":"execution-time","vers":"0.3.1","deps":[],"cksum":"71bf1ad5b4addcce54ac7bc818c8ebb1bdedac41c5dd01cef0bf9a86b655ffdc","features":{},"yanked":false}
