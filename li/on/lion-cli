@@ -12,3 +12,4 @@
 {"name":"Lion-cli","vers":"0.2.0","deps":[],"cksum":"7cd04fce7c9fec00370b2d0159ffa7f6f14e60d935895ec204e99a23aeae3bf3","features":{},"yanked":false}
 {"name":"Lion-cli","vers":"0.2.1-beta","deps":[],"cksum":"e10f256ff9f040c01976b5bfd6d2be2f95ca5aa2e062b8ec5c6e056252a9a75f","features":{},"yanked":false}
 {"name":"Lion-cli","vers":"0.2.1","deps":[],"cksum":"ba58a9cc0793485b9b8e4b6ee3b1990dc6801585f6988d8f581b2b77f6f1ba8f","features":{},"yanked":false}
+{"name":"Lion-cli","vers":"0.2.2","deps":[],"cksum":"e12e355811ef12586506bb660580a91f7265794f1d339667706364a018f9c361","features":{},"yanked":false}
