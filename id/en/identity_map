@@ -1,1 +1,2 @@
 {"name":"identity_map","vers":"0.0.1","deps":[],"cksum":"ad311fc8eef1c58fb4deb1029d4dd57be97d734647ba07357fbfdd4b0f46f528","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"identity_map","vers":"0.1.0","deps":[],"cksum":"499178d980153a27bc1dff59730a614afdcf426b6ea0d7d3286bc1ce1b55cff3","features":{},"yanked":false,"rust_version":"1.85"}
