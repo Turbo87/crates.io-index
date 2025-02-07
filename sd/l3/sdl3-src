@@ -5,3 +5,4 @@
 {"name":"sdl3-src","vers":"3.1.10-prerelease-0","deps":[],"cksum":"d00534df2a8e9d2e5a52bb0d68873679d32e107f36afa8aa1e23a316242ce71e","features":{},"yanked":false}
 {"name":"sdl3-src","vers":"3.2.0","deps":[],"cksum":"bdb74c53278866f2287257b04fcfa2010e249d03ea82b5dc659fb6ec65a20e99","features":{},"yanked":false}
 {"name":"sdl3-src","vers":"3.2.2","deps":[],"cksum":"82d30b2107d266ee8b9678ac5a905b25c061c03c662501fd60859e9d7e2f7e13","features":{},"yanked":false}
+{"name":"sdl3-src","vers":"3.2.4","deps":[],"cksum":"652742893bbef3623ddbd049fa2eaeb7cf62f3f59ab1596727cfea3eb25fe5bb","features":{},"yanked":false}
