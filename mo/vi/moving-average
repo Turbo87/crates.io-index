@@ -6,3 +6,4 @@
 {"name":"moving-average","vers":"0.1.5","deps":[],"cksum":"cf3d350744229a50c6f95a651c9fb2a4fbc9143a01a0a5d8b71bfec80db2f9e9","features":{},"yanked":false}
 {"name":"moving-average","vers":"0.1.6","deps":[],"cksum":"d802bf04ca2a6f125f54897c9ccf65623b1f752b99730874942787eb9021eeb3","features":{},"yanked":false}
 {"name":"moving-average","vers":"0.1.7","deps":[],"cksum":"ac0959cea7cafcbc9c9949b6b12dd8fb2c388b71867bd998e346cc7d0cdee876","features":{},"yanked":false}
+{"name":"moving-average","vers":"0.3.0","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"922999126df9811fd6b3e27d039acff0db133801aa870a98499076bacd6d5a98","features":{},"yanked":false}
