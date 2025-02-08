@@ -5,3 +5,4 @@
 {"name":"decode_kyma_vcs_event","vers":"0.1.13","deps":[],"cksum":"f0bc620abf0daf8fdb77c05e4869fd9d23bfdb04b3747e4ec2a73bcb0064d14a","features":{},"yanked":true}
 {"name":"decode_kyma_vcs_event","vers":"0.1.14","deps":[],"cksum":"34d8dfe7190940eb9c5ba6ae1dacc648e8a5e01771384d90521a24e69a7d51ac","features":{},"yanked":false}
 {"name":"decode_kyma_vcs_event","vers":"0.1.15","deps":[],"cksum":"7b0e97a1458dd044854f73a1693bec4b15db843ce1b8a14d3b7b4e1e9b133bd8","features":{},"yanked":false}
+{"name":"decode_kyma_vcs_event","vers":"0.1.16","deps":[],"cksum":"9509d661e4efaf842bc29aedbeab46be190f47fbd731fb85d54f28c502c9b53b","features":{},"yanked":false}
