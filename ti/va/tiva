@@ -5,3 +5,4 @@
 {"name":"tiva","vers":"0.1.4","deps":[],"cksum":"b1ad8e94be640ff03b4faa926b6f0cde990c1a7058a0ffff390b28766a11ef77","features":{},"yanked":false}
 {"name":"tiva","vers":"0.1.5","deps":[],"cksum":"b184b0423f8a56cc72fc1d0d7a7a058427952ac6d1eea5bf3f10fe4d3bad201e","features":{},"yanked":false}
 {"name":"tiva","vers":"0.2.0","deps":[],"cksum":"a6d893c34e75ee023009a552d173bb5fc34fe51c5bb4262fa2c6f700990d0ab5","features":{},"yanked":false}
+{"name":"tiva","vers":"0.3.0","deps":[],"cksum":"d86292e3f57bdfd4fe21a7b41390537d8657db2e4c9b78d803de18686ad433f3","features":{},"yanked":false}
