@@ -33,3 +33,4 @@
 {"name":"http-constant","vers":"1.26.0","deps":[],"cksum":"0e6d6d1dab5c7e7dfd78192e6ac4e1fada87d5e906865469d634083b528b7e00","features":{},"yanked":false}
 {"name":"http-constant","vers":"1.26.1","deps":[],"cksum":"7c55fae5d1478014c77ea58dd6248f13dfc17222a969c5f335be2f244d7c3497","features":{},"yanked":false}
 {"name":"http-constant","vers":"1.27.0","deps":[],"cksum":"10848ec913e96f2ce1450f85469d0bdc352129be261eec684c2a1ae97db1ae18","features":{},"yanked":false}
+{"name":"http-constant","vers":"1.27.1","deps":[],"cksum":"d4f65c1d734142034b3e28ee07df50974f6adc2fb2eeb877963181e826d2aa6a","features":{},"yanked":false}
