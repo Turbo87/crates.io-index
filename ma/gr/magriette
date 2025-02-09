@@ -5,3 +5,4 @@
 {"name":"magriette","vers":"0.2.3","deps":[],"cksum":"f2e8c5663d4a0d6a6567281874313d109d606a2ee66a629d6225a9a570ddfcd9","features":{},"yanked":false}
 {"name":"magriette","vers":"0.2.4","deps":[],"cksum":"be0c57f96dac650ed86922cd5b7b080f5b3c531a3151ce2632e334f2f5b64247","features":{},"yanked":false}
 {"name":"magriette","vers":"0.2.5","deps":[],"cksum":"645ed14a07504ead72cc8dd55e6b68c8f0e2b33e7f93fda3b0575373169427ed","features":{},"yanked":false}
+{"name":"magriette","vers":"0.3.0","deps":[],"cksum":"6530ecc530a56c0f1446071d85d1fbac702be4ff4afcfea077a61f65f564f253","features":{},"yanked":false}
