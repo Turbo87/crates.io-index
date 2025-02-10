@@ -1,2 +1,2 @@
-{"name":"closed-interval-set","vers":"1.0.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d4d1065f3ef75b92f531f5f331ce6bc11c24b4df901779a488adb774028534ed","features":{"internal_checks":[]},"yanked":false}
-{"name":"closed-interval-set","vers":"1.0.1","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cb24e6f3187ace65bc4f757a48e96f9b720d5203e626874df6ca0663d6179ed6","features":{"internal_checks":[]},"yanked":false}
+{"name":"closed-interval-set","vers":"1.0.0","deps":[],"cksum":"d4d1065f3ef75b92f531f5f331ce6bc11c24b4df901779a488adb774028534ed","features":{"internal_checks":[]},"yanked":false}
+{"name":"closed-interval-set","vers":"1.0.1","deps":[],"cksum":"cb24e6f3187ace65bc4f757a48e96f9b720d5203e626874df6ca0663d6179ed6","features":{"internal_checks":[]},"yanked":false}
